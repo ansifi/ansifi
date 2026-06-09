@@ -16,7 +16,7 @@ Patterns of engineering · Challenge → Decision → Result · Evidence room (p
 | **Automation & AI Pipelines** (Python) | Idempotency, lineage, governed automation |
 | **Enterprise Web** (Angular/Laravel) | Tenant scope, API contracts, reporting layers |
 
-**Evidence:** [email_automation_tool](https://github.com/ansifi/email_automation_tool) · [echarts-demo-angular-wkjvwh](https://github.com/ansifi/echarts-demo-angular-wkjvwh) · [Case studies](https://ansifi.github.io/case-studies/)
+**Evidence:** [Case studies](https://ansifi.github.io/case-studies/)
 
 ---
 

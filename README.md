@@ -2,7 +2,7 @@
 
 **Principal Solutions Architect** · **20+ years** · Founder of [Sevendyne](https://sevendyne.com)
 
-All portfolio content lives in one repository: **[ansifi/ansifi.github.io](https://github.com/ansifi/ansifi.github.io)** → **[ansifi.github.io](https://ansifi.github.io)**
+All portfolio content lives in one repository: **[ansifi.github.io](https://ansifi.github.io)**
 
 ---
 
@@ -16,7 +16,7 @@ Patterns of engineering · Challenge → Decision → Result · Evidence room (p
 | **Automation & AI Pipelines** (Python) | Idempotency, lineage, governed automation |
 | **Enterprise Web** (Angular/Laravel) | Tenant scope, API contracts, reporting layers |
 
-**Evidence:** [Case studies](https://ansifi.github.io/case-studies/)
+**Projects:** (https://ansifi.github.io/case-studies/)
 
 ---
 

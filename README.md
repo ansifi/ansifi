@@ -1,0 +1,31 @@
+# Ansif P. Ibrahimkutty
+
+**Principal Solutions Architect** · **20+ years** · Founder of [Sevendyne](https://sevendyne.com)
+
+All portfolio content lives in one repository: **[ansifi/ansifi.github.io](https://github.com/ansifi/ansifi.github.io)** → **[ansifi.github.io](https://ansifi.github.io)**
+
+---
+
+### → [Technical Audit hub](https://ansifi.github.io)
+
+Patterns of engineering · Challenge → Decision → Result · Evidence room (proof / logic / context)
+
+| Pattern | Audit focus |
+| :--- | :--- |
+| **High-Concurrency Systems** (C++/Qt) | Latency, throughput, hardware boundaries |
+| **Automation & AI Pipelines** (Python) | Idempotency, lineage, governed automation |
+| **Enterprise Web** (Angular/Laravel) | Tenant scope, API contracts, reporting layers |
+
+**Evidence:** [email_automation_tool](https://github.com/ansifi/email_automation_tool) · [echarts-demo-angular-wkjvwh](https://github.com/ansifi/echarts-demo-angular-wkjvwh) · [Case studies](https://ansifi.github.io/case-studies/)
+
+---
+
+### 🏛 The Engineering Ecosystem
+
+| Persona | Destination |
+| :--- | :--- |
+| **Technical Audit & patterns** | [ansifi.github.io](https://ansifi.github.io) |
+| **Enterprise delivery** | [sevendyne.com](https://sevendyne.com) |
+| **Architectural reflections** | [Medium](https://medium.com/@ansifpi) |
+
+*This repo is only your GitHub profile README. The site is maintained in **`ansifi.github.io`** — one canonical repo.*

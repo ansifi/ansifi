@@ -5,11 +5,11 @@ Founder of [Sevendyne](https://sevendyne.com)
 
 ### → [Technical Audit hub](https://ansifi.github.io)
 
-Patterns of engineering · Challenge → Decision → Result · [Case studies (2007–2016)](https://ansifi.github.io/case-studies/)
+Patterns of engineering · Challenge → Decision → Result · [Expertise areas](https://ansifi.github.io/#expertise)
 
 | Pattern | Audit focus | Evidence |
 | :--- | :--- | :--- |
-| **High-Concurrency** (C++/Qt) | Latency, hardware boundaries | [Case studies](https://ansifi.github.io/case-studies/) |
+| **High-Concurrency** (C++/Qt) | Latency, hardware boundaries | [Expertise](https://ansifi.github.io/#expertise) · [Sevendyne case studies](https://www.sevendyne.com/case-studies/) |
 | **Automation & AI** (Python) | Idempotency, lineage | [email_automation_tool](https://github.com/ansifi/email_automation_tool) |
 | **Enterprise Web** (Angular) | API contracts, reporting | [echarts-demo-angular-wkjvwh](https://github.com/ansifi/echarts-demo-angular-wkjvwh) |
 

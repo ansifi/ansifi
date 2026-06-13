@@ -128,6 +128,38 @@ Condensed from production delivery. Each programme states **client constraint �
 
 ---
 
+## Now · learning · future (Ansif Robotics)
+
+**Today:** Engaging in tech forums, writing posts, helping engineers on practical problems, and deepening robotics knowledge through **Python prototypes** and existing code — alongside Sevendyne delivery and Empever platform work.
+
+**Future:** **[Ansif Robotics](https://github.com/ansifi/autox_robotics)** — real hardware, logistics automation, and field systems — planned **after** [Sevendyne](https://www.sevendyne.com) and Empever SaaS reach stable revenue. Software orchestration and flow tooling is the current lab; physical rigs come later.
+
+### Research & reference links *(bookmark for later)*
+
+| Topic | Resource | Why |
+| :--- | :--- | :--- |
+| **C++ reference** | [cppreference.com](https://en.cppreference.com/w/) | Language & STL lookup |
+| **C++ core guidelines** | [isocpp.github.io/CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) | Modern C++ practice |
+| **Modern C++** | [modernescpp.com](https://www.modernescpp.com/) | Patterns, concurrency, templates |
+| **Qt 6 docs** | [doc.qt.io/qt-6](https://doc.qt.io/qt-6/) | Embedded HMI, QML, threading |
+| **Python** | [docs.python.org/3](https://docs.python.org/3/) | Scripting, automation, ML glue |
+| **Python robotics examples** | [PythonRobotics (GitHub)](https://github.com/AtsushiSakai/PythonRobotics) | SLAM, path planning, control — study code |
+| **OpenAI API** | [platform.openai.com/docs](https://platform.openai.com/docs) | Governed AI workflows |
+| **Hugging Face** | [huggingface.co/docs](https://huggingface.co/docs) | Models, datasets, inference |
+| **PyTorch** | [pytorch.org/docs](https://pytorch.org/docs/stable/index.html) | ML / perception experiments |
+| **ROS 2 docs** | [docs.ros.org](https://docs.ros.org/en/jazzy/index.html) | Middleware, nodes, launch, bags |
+| **Navigation2** | [navigation.ros.org](https://navigation.ros.org/) | AMR / mobile-robot planning stack |
+| **MoveIt** | [moveit.ai](https://moveit.ai/) | Manipulation, motion planning |
+| **Gazebo Sim** | [gazebosim.org/docs](https://gazebosim.org/docs) | Simulation before hardware |
+| **URDF / robot models** | [wiki.ros.org/urdf](https://wiki.ros.org/urdf) | Kinematics & joint models |
+| **Orchestration lab** | [autox_robotics](https://github.com/ansifi/autox_robotics) | Flow builder, browser automation — digital twin habits |
+| **Qt forum** | [forum.qt.io](https://forum.qt.io/) | Embedded & QML community |
+| **Robotics (Reddit)** | [r/robotics](https://www.reddit.com/r/robotics/) | News, builds, discussion |
+| **C++ (Reddit)** | [r/cpp](https://www.reddit.com/r/cpp/) | Language & performance threads |
+| **Stack Overflow** | [stackoverflow.com](https://stackoverflow.com/) | Day-to-day Q&A across stacks |
+
+---
+
 ## Connect
 
 | Platform | Link |

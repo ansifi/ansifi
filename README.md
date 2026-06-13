@@ -2,7 +2,7 @@
 
 **Enterprise Systems Architect** · **Studio Founder, [Sevendyne](https://www.sevendyne.com)** · **20+ years** in full-stack design and high-performance application engineering.
 
-I architect **C++/Qt6 embedded systems**, **high-concurrency data pipelines**, and **production enterprise platforms** for regulated, multi-tenant environments. Since 2016 I lead governed engineering programmes through Sevendyne — UK, Germany, Malaysia, Singapore, Indonesia, and UAE clients — while this profile documents **delivery patterns and programme proof** from two decades of hands-on work.
+I architect **C++/Qt systems**, **high-concurrency data pipelines**, and **production enterprise platforms** for regulated, multi-tenant environments. Since 2016 I lead governed engineering programmes through Sevendyne — UK, Germany, Malaysia, Singapore, Indonesia, and UAE clients — while this profile documents **delivery patterns and programme proof** from two decades of hands-on work.
 
 **Technical proof:** [github.com/ansifi](https://github.com/ansifi) · **Programmes delivered:** [sevendyne.com/case-studies](https://www.sevendyne.com/case-studies/)
 
@@ -63,13 +63,13 @@ Condensed from production delivery. Each programme states **client constraint �
 
 ---
 
-### Embedded Qt6 — IVI / HMI (Panasonic, Cobham)
+### Embedded Qt — IVI / HMI (Panasonic, Cobham)
 
 **The bottleneck:** Video and telemetry decoders feed QML surfaces on resource-constrained SoCs. Naive threading stalls the render loop or causes torn frames.
 
 **The response:** Hard-separate **decode/worker threads** from the Qt Quick render thread; bounded buffers with back-pressure; QML for presentation only — control logic and protocol adapters in C++ with documented contracts. Delivered on **Panasonic** and **Cobham** IVI programmes and defence HMI on **Wayland Linux** (HCL Technologies, 2014–2015).
 
-**Stack:** Qt6 · QML · C++ · Wayland · embedded Linux · automotive / defence HMI.
+**Stack:** Qt · QML · C++ · Wayland · embedded Linux · automotive / defence HMI.
 
 ---
 
@@ -121,7 +121,7 @@ Condensed from production delivery. Each programme states **client constraint �
 
 | Domain | Technologies |
 | :--- | :--- |
-| Embedded & desktop systems | Qt6, QML, C++, VC++, Wt, Wayland, embedded Linux |
+| Embedded & desktop systems | Qt, QML, C++, VC++, Wt, Wayland, embedded Linux |
 | Concurrency & data paths | Thread sync, buffer pipelines, queue workers, adapter isolation |
 | Enterprise web & APIs | Laravel, Vue, Angular, Spring Boot, PHP/CodeIgniter, React, Node.js, REST, Web3 |
 | Operations & AI-assisted workflows | Zoho APIs, Python, OpenAI orchestration, SQL reporting, human-in-loop gates |

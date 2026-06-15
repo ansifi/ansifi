@@ -128,12 +128,6 @@ Condensed from production delivery. Each programme states **client constraint �
 
 ---
 
-## Now · learning · future (Ansif Robotics)
-
-**Today:** Engaging in tech forums, writing posts, helping engineers on practical problems, and deepening robotics knowledge through **Python prototypes** and existing code — alongside Sevendyne delivery and Empever platform work.
-
-**Future:** **[Ansif Robotics](https://github.com/ansifi/autox_robotics)** — real hardware, logistics automation, and field systems — planned **after** [Sevendyne](https://www.sevendyne.com) and Empever SaaS reach stable revenue. Software orchestration and flow tooling is the current lab; physical rigs come later.
-
 ### Research & reference links *(bookmark for later)*
 
 | Topic | Resource | Why |

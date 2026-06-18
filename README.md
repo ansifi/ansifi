@@ -1,10 +1,10 @@
 # Ansif P. Ibrahimkutty
 
-**Principal Solutions Architect** · **C++ / Qt · Python · Full-stack · AI pipelines** · **18+ years**
+**Software Developer** · **C++ / Qt · Python · Full-stack · AI pipelines** · **18+ years**
 
-I design and ship **embedded & desktop systems** (Qt, IVI/HMI), **high-concurrency backends**, and **production web/mobile platforms** — with governed delivery through [Sevendyne](https://www.sevendyne.com).
+I build **embedded & desktop systems** (Qt, IVI/HMI), **full-stack web and mobile apps**, and **AI-augmented data pipelines**. Co-founded [Sevendyne](https://www.sevendyne.com/) in 2016 and ship production software for remote clients in the UK, Germany, Malaysia, Singapore, Indonesia, and the UAE.
 
-**Portfolio, programmes & résumé:** **[ansifi.github.io](https://ansifi.github.io)** · [Ansif_Resume.pdf](https://ansifi.github.io/Ansif_Resume.pdf) · [Case studies](https://www.sevendyne.com/case-studies/)
+**Portfolio & résumé:** **[ansifi.github.io](https://ansifi.github.io)** · [Ansif_Resume.pdf](https://ansifi.github.io/Ansif_Resume.pdf) · [Case studies](https://www.sevendyne.com/case-studies/)
 
 ---
 
@@ -18,15 +18,11 @@ I design and ship **embedded & desktop systems** (Qt, IVI/HMI), **high-concurren
 | **Mobile & Web3** | Android, Kotlin, Solidity, Truffle, Web3.js |
 | **DevOps** | AWS, Docker, CI/CD, queue workers, multi-tenant SaaS |
 
-Client programmes, career history, and Sevendyne delivery detail live on **[ansifi.github.io](https://ansifi.github.io)** — not duplicated here.
+Project history and delivery detail live on **[ansifi.github.io](https://ansifi.github.io)** — not duplicated here.
 
 ---
 
-## Learning & code lab
-
-**Workshop:** [ansifi.github.io/hub](https://ansifi.github.io/hub/) — Devkits academy, Engages forum lab, learning notes (sign-in).
-
-**Research bookmarks**
+## Learning bookmarks
 
 | Topic | Resource |
 | :--- | :--- |

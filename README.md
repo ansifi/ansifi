@@ -2,7 +2,7 @@
 
 **Software developer · payroll consultant** · **C++ / Qt · Python · Full-stack · Backend APIs** · **18+ years**
 
-Hands-on developer across **C++/Qt embedded**, **full-stack web**, and **backend APIs**. At **Sevendyne** since 2016 — client delivery, India payroll for remote engineering teams, and the in-house platform (jobs portal, Payrolls HRMS, academy, CRM).
+Hands-on developer across **C++/Qt embedded**, **full-stack web**, and **backend APIs**. At **Sevendyne** ([sevendyne.com](https://sevendyne.com/)) since 2016 — client delivery, India payroll for remote engineering teams, and the in-house platform (jobs portal, Payrolls HRMS, academy, CRM).
 
 **Site & résumé:** **[ansifi.github.io](https://ansifi.github.io)** · [Ansif_Resume.pdf](https://ansifi.github.io/Ansif_Resume.pdf)
 

@@ -1,10 +1,10 @@
 # Ansif P. Ibrahimkutty
 
-**Software Developer** · **C++ / Qt · Python · Full-stack · AI pipelines** · **18+ years**
+**Software developer · payroll consultant** · **C++ / Qt · Python · Full-stack · Backend APIs** · **18+ years**
 
-I build **embedded & desktop systems** (Qt, IVI/HMI), **full-stack web and mobile apps**, and **AI-augmented data pipelines**. Co-founded [Sevendyne](https://www.sevendyne.com/) in 2016 and ship production software for remote clients in the UK, Germany, Malaysia, Singapore, Indonesia, and the UAE.
+Hands-on developer across **C++/Qt embedded**, **full-stack web**, and **backend APIs**. At **Sevendyne** since 2016 — client delivery, India payroll for remote engineering teams, and the in-house platform (jobs portal, Payrolls HRMS, academy, CRM).
 
-**Portfolio & résumé:** **[ansifi.github.io](https://ansifi.github.io)** · [Ansif_Resume.pdf](https://ansifi.github.io/Ansif_Resume.pdf) · [Case studies](https://www.sevendyne.com/case-studies/)
+**Site & résumé:** **[ansifi.github.io](https://ansifi.github.io)** · [Ansif_Resume.pdf](https://ansifi.github.io/Ansif_Resume.pdf)
 
 ---
 
@@ -12,13 +12,13 @@ I build **embedded & desktop systems** (Qt, IVI/HMI), **full-stack web and mobil
 
 | Area | Technologies |
 | :--- | :--- |
-| **C++ & embedded** | Qt, QML, VC++, Wt, Wayland, real-time UI, IVI/HMI |
-| **Full-stack** | Python, Django, Node.js, React, Angular, Vue, Spring Boot, Laravel, Rails, REST, GraphQL |
-| **Data & AI** | OpenAI API, Python pipelines, SQL, PostgreSQL, eCharts, ETL |
-| **Mobile & Web3** | Android, Kotlin, Solidity, Truffle, Web3.js |
-| **DevOps** | AWS, Docker, CI/CD, queue workers, multi-tenant SaaS |
+| **C++ & embedded** | Qt, QML, VC++, Wt, Wayland, IVI/HMI, embedded Linux |
+| **Full-stack** | Python, Django, Node.js, React, Angular, Vue, Spring Boot, Laravel, Rails, REST |
+| **Data & AI** | OpenAI API, Python pipelines, SQL, PostgreSQL, eCharts |
+| **Platform** | Docker, GCP Cloud Run, SQLite, multi-tenant SaaS |
+| **Mobile & Web3** | Android, Solidity, Truffle, Web3.js |
 
-Project history and delivery detail live on **[ansifi.github.io](https://ansifi.github.io)** — not duplicated here.
+Full project history on **[ansifi.github.io](https://ansifi.github.io)**.
 
 ---
 
@@ -35,7 +35,7 @@ Project history and delivery detail live on **[ansifi.github.io](https://ansifi.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/ansifpi/) · [GitHub](https://github.com/ansifi) · [Medium](https://ansifpi.medium.com) · [Sevendyne contact](https://www.sevendyne.com/contact/) · [Book 30 min](https://calendly.com/sevendyne/30min)
+[LinkedIn](https://www.linkedin.com/in/ansifpi/) · [GitHub](https://github.com/ansifi) · [Medium](https://ansifpi.medium.com) · ansif.pi@gmail.com
 
 ---
 

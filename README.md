@@ -1,6 +1,6 @@
 # Ansif P. Ibrahimkutty
 
-**Software developer · payroll consultant** · **C++ / Qt · Python · Full-stack · Backend APIs** · **18+ years**
+**Software developer** · **C++ / Qt · Python · Full-stack · Backend APIs** · **18+ years**
 
 Hands-on developer across **C++/Qt embedded**, **full-stack web**, and **backend APIs**. 
 

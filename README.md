@@ -1,61 +1,62 @@
 # Ansif P. Ibrahimkutty
 
-**Founder & Principal Engineer at [Sevendyne](https://www.sevendyne.com/)** · **C++ / Qt · Python · Ruby on Rails · Full-stack · Backend APIs** · **18+ years**
+**Founder & Principal Engineer at [Sevendyne](https://www.sevendyne.com/)** · **C++ / Qt · Ruby on Rails · Python/Django · Full-stack** · **18+ years**
 
-Hands-on developer since 2007 across **C++/Qt embedded**, **full-stack web**, and **backend APIs** — B.Tech CSE (TKM College of Engineering, 2006). Leading **[Sevendyne](https://www.sevendyne.com/)** — software delivery for international clients (UK, Germany, UAE), plus India payroll infrastructure for remote engineering teams and the in-house platform (Payrolls HRMS, CRM, jobs portal, academy).
+Hands-on developer since 2007 — C++/Qt embedded systems, Ruby on Rails, Python/Django, and AI-integrated backends. I co-founded **[Sevendyne](https://www.sevendyne.com/)**, which handles contracting, delivery, and India payroll/compliance for the engagements below.
 
 **📬 Currently taking remote engagements — Ruby on Rails / Redmine, C++/Qt embedded, and Django/Python.**
 
-**Portfolio:** **[ansifi.github.io](https://ansifi.github.io)** · **Résumé PDF:** [Download](https://ansifi.github.io/Ansif_Resume.pdf)
+---
+
+## Project works
+
+**E-commerce AI pipeline** — German client, 2023–24. Rails/Spree Commerce app; Python scrapers with OpenAI attribute extraction; ETL into SQL Server for catalogue and ops dashboards. `Rails · Spree · Python · OpenAI`
+
+**Payrolls HRMS platform** — 2025–present, in production. Django + Next.js: payroll runs, payslips, client invoicing, PF/ESIC/TDS/GST workflows, per-client databases, on GCP Cloud Run. `Django · Next.js · Docker · GCP`
+
+**Zoho Recruit automation** — German client, 2024–25. Python + OpenAI candidate search and import; idempotent SQL loaders; operator review gates before records went live. `Python · OpenAI · SQL Server`
+
+**TLMS logistics platform** — Malaysia–Singapore freight, 2019–22. Re-architected the Laravel transaction layer with queue workers to clear sync deadlocks; thousands of live shipments daily. `Laravel · Vue.js · MySQL · Redis`
+
+**Trading-desk Qt application** — Low-latency C++/Qt/Wt trading desks; adapter layer over proprietary market-data libraries; multi-window operator layouts.
+
+📁 More project detail: [ansifi.github.io/expertise](https://ansifi.github.io/expertise/) · Full history: [Résumé PDF](https://ansifi.github.io/Ansif_Resume.pdf)
 
 ---
 
-## Evaluating me? Start here
-
-| Step | Link |
-| :--- | :--- |
-| **1. GitHub profile (you are here)** | [github.com/ansifi](https://github.com/ansifi) — code, activity, technical presence |
-| **2. Expertise & experience areas** | [ansifi.github.io](https://ansifi.github.io) — one page per stack / programme |
-| **3. Company, delivery & compliance** | [sevendyne.com](https://www.sevendyne.com) · [Contact](https://www.sevendyne.com/contact/) · [Case studies](https://www.sevendyne.com/case-studies/) |
-
----
-
-## Experience areas (portfolio)
-
-| Area | Page |
-| :--- | :--- |
-| **C++ / Qt / Embedded** | [cpp-qt-embedded](https://ansifi.github.io/expertise/cpp-qt-embedded.html) |
-| **Ruby on Rails (Spree, Redmine)** | [ruby-on-rails](https://ansifi.github.io/expertise/ruby-on-rails.html) |
-| **Python & backend APIs** | [python-backend](https://ansifi.github.io/expertise/python-backend.html) |
-| **Full-stack web** | [full-stack-web](https://ansifi.github.io/expertise/full-stack-web.html) |
-| **PHP & payments / CRM** | [php-payments](https://ansifi.github.io/expertise/php-payments.html) |
-| **AI & data pipelines** | [ai-automation](https://ansifi.github.io/expertise/ai-automation.html) |
-| **Sevendyne payroll & clients** | [sevendyne-payroll](https://ansifi.github.io/expertise/sevendyne-payroll.html) |
-
-[All expertise →](https://ansifi.github.io/expertise/)
-
----
-
-## Core skills
+## Skills
 
 | Area | Technologies |
 | :--- | :--- |
 | **C++ & embedded** | Qt, QML, VC++, Wt, Wayland, IVI/HMI, embedded Linux |
-| **Full-stack** | Python, Django, Ruby on Rails, Node.js, React, Angular, Vue, Spring Boot, Laravel, REST |
+| **Ruby on Rails** | Rails, Spree Commerce, Redmine |
+| **Full-stack** | Python, Django, Node.js, React, Angular, Vue, Spring Boot, Laravel, REST |
 | **Data & AI** | OpenAI API, Python pipelines, SQL, PostgreSQL, eCharts |
 | **Platform** | Docker, GCP Cloud Run, SQLite, multi-tenant SaaS |
-| **Payroll (India)** | PF, ESIC, TDS, GST — via Sevendyne HRMS |
-
-Programme proof: **[sevendyne.com/case-studies](https://www.sevendyne.com/case-studies)**
+| **Payroll (India)** | PF, ESIC, TDS, GST — via Sevendyne |
 
 ---
 
-## Education
+## Experience
 
-**B.Tech, Computer Science & Engineering** — TKM College of Engineering, Kollam (2002–2006)
+**Sevendyne — Co-Founder & Principal Engineer** · Sep 2016 – present · Kochi, India
+Remote delivery for UK, Germany, Malaysia, Singapore, UAE. Contracts, delivery cadence, and India payroll/compliance run through Sevendyne — [sevendyne.com](https://www.sevendyne.com)
+
+**CSR Informatics GmbH, Germany** — Full-Stack / AI Developer · May 2022 – Mar 2025 · via Sevendyne
+
+**Quantyf** — Backend Developer (contract) · Jun – Nov 2025 · Python, supply-chain optimisation
+
+**Niaga Prestasi, Malaysia** — Full-Stack Developer · Sep 2019 – May 2022 · via Sevendyne
+
+**Earlier:** German navigation pod (embedded C++, 2016–19) · UK automotive/industrial programmes · HexoSys Sdn Bhd, Malaysia (2009–11) · freelance and systems work since 2007
+
+Full timeline: [Résumé PDF](https://ansifi.github.io/Ansif_Resume.pdf)
+
+**Education:** B.Tech, Computer Science & Engineering — TKM College of Engineering, Kerala University (2002–2006)
 
 ---
 
-## Connect
+## Contact
 
-[LinkedIn](https://www.linkedin.com/in/ansifpi/) · [Portfolio](https://ansifi.github.io) · [Stack Overflow](https://stackoverflow.com/users/1658570/ansif) · [Medium](https://ansifpi.medium.com) · ansif.pi@gmail.com
+📧 **ansif.pi@gmail.com** · 💬 **WhatsApp: +91 95444 67729**
+[LinkedIn](https://www.linkedin.com/in/ansifpi/) · [Portfolio](https://ansifi.github.io) · [Stack Overflow](https://stackoverflow.com/users/1658570/ansif) · [Medium](https://ansifpi.medium.com) · [Sevendyne](https://www.sevendyne.com)

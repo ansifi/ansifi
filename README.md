@@ -1,62 +1,53 @@
 # Ansif P. Ibrahimkutty
 
-**Founder & Principal Engineer at [Sevendyne](https://www.sevendyne.com/)** · **C++ / Qt · Ruby on Rails · Python/Django · Full-stack** · **18+ years**
+**Research Developer & Systems Architect** · **C++ / Qt · Ruby on Rails · Python/Django · Full-Stack** · **20+ Years**
 
-Hands-on developer since 2007 — C++/Qt embedded systems, Ruby on Rails, Python/Django, and AI-integrated backends. I co-founded **[Sevendyne](https://www.sevendyne.com/)**, which handles contracting, delivery, and India payroll/compliance for the engagements below.
+I am a polyglot research developer with over two decades of experience building production software across diverse paradigms. My work stretches from real-time low-latency embedded systems and desktop engineering applications to modern multi-tenant SaaS architectures, intelligent AI pipelines, and complex business infrastructure. 
 
-**📬 Currently taking remote engagements — Ruby on Rails / Redmine, C++/Qt embedded, and Django/Python.**
+I am the founder of **[Sevendyne](https://www.sevendyne.com/)**, a remote payroll staffing platform. Alongside other remote software professionals, I actively build and deliver production software for international clients through the platform.
 
----
-
-## Project works
-
-**E-commerce AI pipeline** — German client, 2023–24. Rails/Spree Commerce app; Python scrapers with OpenAI attribute extraction; ETL into SQL Server for catalogue and ops dashboards. `Rails · Spree · Python · OpenAI`
-
-**Payrolls HRMS platform** — 2025–present, in production. Django + Next.js: payroll runs, payslips, client invoicing, PF/ESIC/TDS/GST workflows, per-client databases, on GCP Cloud Run. `Django · Next.js · Docker · GCP`
-
-**Zoho Recruit automation** — German client, 2024–25. Python + OpenAI candidate search and import; idempotent SQL loaders; operator review gates before records went live. `Python · OpenAI · SQL Server`
-
-**TLMS logistics platform** — Malaysia–Singapore freight, 2019–22. Re-architected the Laravel transaction layer with queue workers to clear sync deadlocks; thousands of live shipments daily. `Laravel · Vue.js · MySQL · Redis`
-
-**Trading-desk Qt application** — Low-latency C++/Qt/Wt trading desks; adapter layer over proprietary market-data libraries; multi-window operator layouts.
-
-📁 More project detail: [ansifi.github.io/expertise](https://ansifi.github.io/expertise/) · Full history: [Résumé PDF](https://ansifi.github.io/Ansif_Resume.pdf)
+📬 **Open to technical research, systems development, and high-impact engineering contracts.**
 
 ---
 
-## Skills
+## Featured Project Implementations
 
-| Area | Technologies |
+### 🛠️ The Sevendyne Platform (Core Engineer & Architect)
+*Developed an in-house enterprise suite to run our remote staffing operations, replacing a complex external SaaS ecosystem.*
+* **Payrolls & HRMS Engine:** Built using Django + Next.js to orchestrate regional payroll runs, custom client invoicing, and automated Indian statutory compliance workflows (PF/ESIC/TDS/GST) using isolated tenant data layers.
+* **Talent Acquisition Engine:** Custom ATS and candidate intake pipelines with automated parsing tools and interview coordination endpoints.
+* **Operational CRM:** Multi-tenant Node.js + SQLite CRM utilizing headless automation scripts for data gathering and client pipeline tracking.
+* **Infrastructure:** Distributed microservices mapped via nginx reverse path routing, running in containerized environments on GCP Cloud Run.
+`Django · Next.js · Node.js · SQLite · Docker · GCP · Nginx`
+
+### 🤖 Intelligent E-Commerce & Recruitment Automation (CSR Informatics, Germany)
+* **AI Catalog Pipeline:** Designed a Ruby on Rails / Spree Commerce system combined with Python scraping workers using OpenAI APIs for zero-shot product attribute extraction and structural ETL pipelines into SQL Server.
+* **Workflow-Gated ATS Automation:** Python systems querying Zoho REST APIs to match, clean, and pipe candidates with transactional safety, guarded by custom operator review screens.
+`Ruby on Rails · Spree · Python · OpenAI · SQL Server`
+
+### 📈 Low-Latency Desktop Architectures (FinTech & Embedded)
+* **Custom Desktop Trading Desks:** Designed high-throughput, multi-window trading desktop software in C++/Qt/Wt with low-overhead adapter layers over proprietary market data streaming libraries.
+* **USB Protocol Tester:** Developed a low-level validation console using C++/Qt and raw socket programming for embedded hardware verification (HexoSys, Malaysia).
+`C++ · Qt · QML · Wt · Embedded Linux · Sockets`
+
+### 🚚 High-Throughput Transaction Systems (Niaga Prestasi, Malaysia)
+* **TLMS Freight Platform:** Re-architected a legacy synchronous transaction backend into a decoupled Laravel queue worker architecture, successfully processing thousands of daily cross-border shipments between Malaysia and Singapore.
+`Laravel · Vue.js · MySQL · Redis · RabbitMQ`
+
+---
+
+## Technical Domain Focus
+
+| Paradigm | Core Languages & Ecosystems |
 | :--- | :--- |
-| **C++ & embedded** | Qt, QML, VC++, Wt, Wayland, IVI/HMI, embedded Linux |
-| **Ruby on Rails** | Rails, Spree Commerce, Redmine |
-| **Full-stack** | Python, Django, Node.js, React, Angular, Vue, Spring Boot, Laravel, REST |
-| **Data & AI** | OpenAI API, Python pipelines, SQL, PostgreSQL, eCharts |
-| **Platform** | Docker, GCP Cloud Run, SQLite, multi-tenant SaaS |
-| **Payroll (India)** | PF, ESIC, TDS, GST — via Sevendyne |
+| **Low-Level & Desktop** | C++, Qt, QML, VC++, Wt, Sockets, IPC, Embedded Linux, HMI/IVI |
+| **Web & Microservices** | Ruby on Rails (Spree, Redmine), Python (Django, Flask), Laravel, Node.js |
+| **Front-End & Dashboards** | Next.js, React, Angular, Vue.js, Apache eCharts, CSS/SCSS |
+| **Data & Automation** | OpenAI APIs, Browser Automation, PostgreSQL, MySQL, SQL Server, SQLite |
+| **DevOps & Infrastructure**| Docker, Docker Compose, GCP Cloud Run, Nginx, Multi-tenant DB isolation |
 
 ---
 
-## Experience
+## Contact & Links
 
-**Sevendyne — Co-Founder & Principal Engineer** · Sep 2016 – present · Kochi, India
-Remote delivery for UK, Germany, Malaysia, Singapore, UAE. Contracts, delivery cadence, and India payroll/compliance run through Sevendyne — [sevendyne.com](https://www.sevendyne.com)
-
-**CSR Informatics GmbH, Germany** — Full-Stack / AI Developer · May 2022 – Mar 2025 · via Sevendyne
-
-**Quantyf** — Backend Developer (contract) · Jun – Nov 2025 · Python, supply-chain optimisation
-
-**Niaga Prestasi, Malaysia** — Full-Stack Developer · Sep 2019 – May 2022 · via Sevendyne
-
-**Earlier:** German navigation pod (embedded C++, 2016–19) · UK automotive/industrial programmes · HexoSys Sdn Bhd, Malaysia (2009–11) · freelance and systems work since 2007
-
-Full timeline: [Résumé PDF](https://ansifi.github.io/Ansif_Resume.pdf)
-
-**Education:** B.Tech, Computer Science & Engineering — TKM College of Engineering, Kerala University (2002–2006)
-
----
-
-## Contact
-
-📧 **ansif.pi@gmail.com** · 💬 **WhatsApp: +91 95444 67729**
-[LinkedIn](https://www.linkedin.com/in/ansifpi/) · [Portfolio](https://ansifi.github.io) · [Stack Overflow](https://stackoverflow.com/users/1658570/ansif) · [Medium](https://ansifpi.medium.com) · [Sevendyne](https://www.sevendyne.com)
+📧 **ansif.pi@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/ansifpi/) · 🖥️ [Portfolio Website](https://ansifi.github.io) · 📊 [Stack Overflow](https://stackoverflow.com/users/1658570/ansif)

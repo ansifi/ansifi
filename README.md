@@ -1,53 +1,63 @@
 # Ansif P. Ibrahimkutty
 
-**Research Developer & Systems Architect** · **C++ / Qt · Ruby on Rails · Python/Django · Full-Stack** · **20+ Years**
+**Research Developer** · **C++ / Qt · Ruby on Rails · Python/Django · Full-Stack** · **20+ Years**
 
-I am a polyglot research developer with over two decades of experience building production software across diverse paradigms. My work stretches from real-time low-latency embedded systems and desktop engineering applications to modern multi-tenant SaaS architectures, intelligent AI pipelines, and complex business infrastructure. 
+I am a polyglot research developer with over two decades of experience building production software across diverse paradigms — from real-time low-latency embedded systems and desktop engineering applications to multi-tenant SaaS, intelligent AI pipelines, and complex business infrastructure.
 
-I am the founder of **[Sevendyne](https://www.sevendyne.com/)**, a remote payroll staffing platform. Alongside other remote software professionals, I actively build and deliver production software for international clients through the platform.
-
-📬 **Open to technical research, systems development, and high-impact engineering contracts.**
+📬 **Open to technical research, systems development, and high-impact engineering contracts.**  
+Employment and current roles: [LinkedIn](https://www.linkedin.com/in/ansifpi/).
 
 ---
 
-## Featured Project Implementations
+## Portfolio projects
 
-### 🛠️ The Sevendyne Platform (Core Engineer & Architect)
-*Developed an in-house enterprise suite to run our remote staffing operations, replacing a complex external SaaS ecosystem.*
-* **Payrolls & HRMS Engine:** Built using Django + Next.js to orchestrate regional payroll runs, custom client invoicing, and automated Indian statutory compliance workflows (PF/ESIC/TDS/GST) using isolated tenant data layers.
-* **Talent Acquisition Engine:** Custom ATS and candidate intake pipelines with automated parsing tools and interview coordination endpoints.
-* **Operational CRM:** Multi-tenant Node.js + SQLite CRM utilizing headless automation scripts for data gathering and client pipeline tracking.
-* **Infrastructure:** Distributed microservices mapped via nginx reverse path routing, running in containerized environments on GCP Cloud Run.
-`Django · Next.js · Node.js · SQLite · Docker · GCP · Nginx`
+Full write-ups live under this repository’s GitHub Pages site:
 
-### 🤖 Intelligent E-Commerce & Recruitment Automation (CSR Informatics, Germany)
-* **AI Catalog Pipeline:** Designed a Ruby on Rails / Spree Commerce system combined with Python scraping workers using OpenAI APIs for zero-shot product attribute extraction and structural ETL pipelines into SQL Server.
-* **Workflow-Gated ATS Automation:** Python systems querying Zoho REST APIs to match, clean, and pipe candidates with transactional safety, guarded by custom operator review screens.
+**[Portfolio home →](https://ansifi.github.io/ansifi/portfolio/)**
+
+| Area | Overview | Page |
+| :--- | :--- | :--- |
+| **C++ / Qt / Embedded** | IVI/HMI, trading desks, USB/protocol consoles, embedded Linux | [Open](https://ansifi.github.io/ansifi/expertise/cpp-qt-embedded.html) |
+| **Ruby on Rails** | Spree Commerce, catalogue pipelines, e-commerce ops (CSR Informatics, Germany) | [Open](https://ansifi.github.io/ansifi/expertise/ruby-on-rails.html) |
+| **Python & Backend APIs** | Django platforms, REST services, supply-chain optimisation backends | [Open](https://ansifi.github.io/ansifi/expertise/python-backend.html) |
+| **Full-stack Web** | Laravel/Vue logistics, Angular/Spring analytics, talent portals | [Open](https://ansifi.github.io/ansifi/expertise/full-stack-web.html) |
+| **PHP & Payments** | CodeIgniter multi-tenant CRM, PayU/RedDot APAC payment flows | [Open](https://ansifi.github.io/ansifi/expertise/php-payments.html) |
+| **AI & Data Pipelines** | OpenAI attribute extraction, Zoho automation, governed ETL | [Open](https://ansifi.github.io/ansifi/expertise/ai-automation.html) |
+
+[All expertise areas →](https://ansifi.github.io/ansifi/expertise/) · [Résumé (PDF) →](https://ansifi.github.io/ansifi/resume.html)
+
+---
+
+## Selected programme highlights
+
+### Intelligent E-Commerce & Recruitment Automation (CSR Informatics, Germany)
+* **AI Catalog Pipeline:** Ruby on Rails / Spree Commerce with Python scraping workers and OpenAI APIs for product attribute extraction and ETL into SQL Server.
+* **Workflow-Gated ATS Automation:** Python systems querying Zoho REST APIs to match, clean, and pipe candidates with operator review gates.
 `Ruby on Rails · Spree · Python · OpenAI · SQL Server`
 
-### 📈 Low-Latency Desktop Architectures (FinTech & Embedded)
-* **Custom Desktop Trading Desks:** Designed high-throughput, multi-window trading desktop software in C++/Qt/Wt with low-overhead adapter layers over proprietary market data streaming libraries.
-* **USB Protocol Tester:** Developed a low-level validation console using C++/Qt and raw socket programming for embedded hardware verification (HexoSys, Malaysia).
+### Low-Latency Desktop Architectures (FinTech & Embedded)
+* **Custom Desktop Trading Desks:** High-throughput, multi-window trading software in C++/Qt/Wt over proprietary market data adapters.
+* **USB Protocol Tester:** C++/Qt validation console with raw socket programming for embedded hardware (HexoSys, Malaysia).
 `C++ · Qt · QML · Wt · Embedded Linux · Sockets`
 
-### 🚚 High-Throughput Transaction Systems (Niaga Prestasi, Malaysia)
-* **TLMS Freight Platform:** Re-architected a legacy synchronous transaction backend into a decoupled Laravel queue worker architecture, successfully processing thousands of daily cross-border shipments between Malaysia and Singapore.
+### High-Throughput Transaction Systems (Niaga Prestasi, Malaysia)
+* **TLMS Freight Platform:** Re-architected a legacy synchronous backend into Laravel queue workers for cross-border Malaysia–Singapore shipments.
 `Laravel · Vue.js · MySQL · Redis · RabbitMQ`
 
 ---
 
-## Technical Domain Focus
+## Technical domain focus
 
-| Paradigm | Core Languages & Ecosystems |
+| Paradigm | Core languages & ecosystems |
 | :--- | :--- |
 | **Low-Level & Desktop** | C++, Qt, QML, VC++, Wt, Sockets, IPC, Embedded Linux, HMI/IVI |
 | **Web & Microservices** | Ruby on Rails (Spree, Redmine), Python (Django, Flask), Laravel, Node.js |
 | **Front-End & Dashboards** | Next.js, React, Angular, Vue.js, Apache eCharts, CSS/SCSS |
 | **Data & Automation** | OpenAI APIs, Browser Automation, PostgreSQL, MySQL, SQL Server, SQLite |
-| **DevOps & Infrastructure**| Docker, Docker Compose, GCP Cloud Run, Nginx, Multi-tenant DB isolation |
+| **DevOps & Infrastructure** | Docker, Docker Compose, GCP Cloud Run, Nginx, Multi-tenant DB isolation |
 
 ---
 
-## Contact & Links
+## Contact & links
 
-📧 **ansif.pi@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/ansifpi/) · 🖥️ [Portfolio Website](https://empever.com/portfolio/) · 📊 [Stack Overflow](https://stackoverflow.com/users/1658570/ansif)
+📧 **ansif.pi@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/ansifpi/) · 📊 [Stack Overflow](https://stackoverflow.com/users/1658570/ansif) · ✍️ [Medium](https://ansifpi.medium.com/) · 💻 [GitHub](https://github.com/ansifi)

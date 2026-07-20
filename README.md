@@ -1,11 +1,10 @@
 # Ansif P. Ibrahimkutty
 
-**Research Developer** · **C++ / Qt · Ruby on Rails · Python/Django · Full-Stack** · **20+ Years**
+**Research · skills · projects · networks**
 
-I am a polyglot research developer with over two decades of experience building production software across diverse paradigms — from real-time low-latency embedded systems and desktop engineering applications to multi-tenant SaaS, intelligent AI pipelines, and complex business infrastructure.
+I do research work to learn new tech skills, apply them on projects, and build professional networks — across embedded systems, backends, full-stack platforms, and applied AI.
 
-📬 **Open to technical research, systems development, and high-impact engineering contracts.**  
-Employment and current roles: [LinkedIn](https://www.linkedin.com/in/ansifpi/).
+Roles and employment history: [LinkedIn](https://www.linkedin.com/in/ansifpi/).
 
 ---
 

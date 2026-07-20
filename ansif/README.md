@@ -12,18 +12,18 @@ Roles and employment history: [LinkedIn](https://www.linkedin.com/in/ansifpi/).
 
 Full write-ups live under this repository’s GitHub Pages site:
 
-**[Portfolio home →](https://ansifi.github.io/ansifi/portfolio/)**
+**[Portfolio home →](https://ansifi.github.io/ansifi/ansif/portfolio/)**
 
 | Area | Overview | Page |
 | :--- | :--- | :--- |
-| **C++ / Qt / Embedded** | IVI/HMI, trading desks, USB/protocol consoles, embedded Linux | [Open](https://ansifi.github.io/ansifi/expertise/cpp-qt-embedded.html) |
-| **Ruby on Rails** | Spree Commerce, catalogue pipelines, e-commerce ops (CSR Informatics, Germany) | [Open](https://ansifi.github.io/ansifi/expertise/ruby-on-rails.html) |
-| **Python & Backend APIs** | Django platforms, REST services, supply-chain optimisation backends | [Open](https://ansifi.github.io/ansifi/expertise/python-backend.html) |
-| **Full-stack Web** | Laravel/Vue logistics, Angular/Spring analytics, talent portals | [Open](https://ansifi.github.io/ansifi/expertise/full-stack-web.html) |
-| **PHP & Payments** | CodeIgniter multi-tenant CRM, PayU/RedDot APAC payment flows | [Open](https://ansifi.github.io/ansifi/expertise/php-payments.html) |
-| **AI & Data Pipelines** | OpenAI attribute extraction, Zoho automation, governed ETL | [Open](https://ansifi.github.io/ansifi/expertise/ai-automation.html) |
+| **C++ / Qt / Embedded** | IVI/HMI, trading desks, USB/protocol consoles, embedded Linux | [Open](https://ansifi.github.io/ansifi/ansif/expertise/cpp-qt-embedded.html) |
+| **Ruby on Rails** | Spree Commerce, catalogue pipelines, e-commerce ops (CSR Informatics, Germany) | [Open](https://ansifi.github.io/ansifi/ansif/expertise/ruby-on-rails.html) |
+| **Python & Backend APIs** | Django platforms, REST services, supply-chain optimisation backends | [Open](https://ansifi.github.io/ansifi/ansif/expertise/python-backend.html) |
+| **Full-stack Web** | Laravel/Vue logistics, Angular/Spring analytics, talent portals | [Open](https://ansifi.github.io/ansifi/ansif/expertise/full-stack-web.html) |
+| **PHP & Payments** | CodeIgniter multi-tenant CRM, PayU/RedDot APAC payment flows | [Open](https://ansifi.github.io/ansifi/ansif/expertise/php-payments.html) |
+| **AI & Data Pipelines** | OpenAI attribute extraction, Zoho automation, governed ETL | [Open](https://ansifi.github.io/ansifi/ansif/expertise/ai-automation.html) |
 
-[All expertise areas →](https://ansifi.github.io/ansifi/expertise/) · [Résumé (PDF) →](https://ansifi.github.io/ansifi/resume.html)
+[All expertise areas →](https://ansifi.github.io/ansifi/ansif/expertise/) · [Résumé (PDF) →](https://ansifi.github.io/ansifi/ansif/resume.html)
 
 ---
 

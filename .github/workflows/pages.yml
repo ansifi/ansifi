@@ -1,4 +1,4 @@
-# Deploy ansif/ as the GitHub Pages site root (keeps profile README.md at repo root).
+# Publish the full repo so site paths match /ansifi/ansif/... (site lives under ansif/).
 name: Deploy Pages
 
 on:
@@ -24,8 +24,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      - name: Prepare publish tree
+        run: |
+          mkdir -p publish
+          # Site under ansif/ + root redirect + profile README for Pages entry
+          cp -a ansif publish/
+          cp -a index.html README.md publish/
+          touch publish/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: ansif
+          path: publish
       - id: deployment
         uses: actions/deploy-pages@v4

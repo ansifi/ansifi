@@ -25,6 +25,8 @@ Full write-ups live under this repository’s GitHub Pages site:
 
 [All expertise areas →](https://ansifi.github.io/ansifi/ansif/expertise/) · [Résumé (PDF) →](https://ansifi.github.io/ansifi/ansif/resume.html)
 
+Learning site, training, and leads links are on the **[portfolio page](https://ansifi.github.io/ansifi/ansif/portfolio/)**.
+
 ---
 
 ## Selected programme highlights
@@ -60,17 +62,4 @@ Full write-ups live under this repository’s GitHub Pages site:
 ## Contact & links
 
 📧 **ansif.pi@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/ansifpi/) · 📊 [Stack Overflow](https://stackoverflow.com/users/1658570/ansif) · ✍️ [Medium](https://ansifpi.medium.com/) · 💻 [GitHub](https://github.com/ansifi)
-
----
-
-## Private leads login
-
-[ansifi.github.io/ansif_leads](https://ansifi.github.io/ansif_leads/) — also in the site nav as **Login**.
-
----
-
-## Learn & blog (Empever)
-
-- [ansifi Learn](https://empever.com/learn) — personal training programmes by Ansif
-- [ansifi Blog](https://empever.com/blog) — coding notes and videos
 

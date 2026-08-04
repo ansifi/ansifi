@@ -15,8 +15,6 @@ Roles and employment history: [LinkedIn](https://www.linkedin.com/in/ansifpi/).
 | Link | Role |
 | :--- | :--- |
 | [Portfolio](https://ansifi.github.io/) | Projects, demos, expertise |
-| [Learns](https://ansifi.github.io/learns/) | Courses offered + studying |
-| [Leads](https://ansifi.github.io/leads/) | Sevendyne + Ansif lead desk |
 | [Résumé](https://ansifi.github.io/resume.html) | PDF résumé |
 
 This repository (`ansifi/ansifi`) hosts the GitHub profile README. The public Pages site is **`ansifi/ansifi.github.io`**.

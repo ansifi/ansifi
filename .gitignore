@@ -1,4 +1,5 @@
-# Nested clones are siblings under works/ansif/ — not part of this repo
+# Nested checkouts under ansif_repos/ — own remotes, not part of ansifi/ansifi
+ansifi.github.io/
 leads/
 learns/
 ansif_leads/

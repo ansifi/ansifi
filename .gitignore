@@ -1,4 +1,7 @@
-# Other remotes / local clones — not part of this Pages/profile repo
-ansif_repos/
+# Other remotes under ansif_repos — not this Pages/profile repo
+ansif_repos/ansif_leads/
+ansif_repos/ansif_learns/
+
+# Local clones
 demo_projects/
 jcatrysse_ror/

@@ -1,7 +1,3 @@
-# Other remotes under ansif_repos — not this Pages/profile repo
-ansif_repos/ansif_leads/
-ansif_repos/ansif_learns/
-
-# Local clones
-demo_projects/
-jcatrysse_ror/
+# Sibling remotes — not part of ansifi/ansifi
+ansif_leads/
+ansif_learns/

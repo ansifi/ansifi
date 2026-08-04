@@ -27,7 +27,7 @@ jobs:
       - name: Prepare publish tree
         run: |
           mkdir -p publish
-          cp -a ansif_repos/ansif publish/ansif
+          cp -a ansif publish/ansif
           cp -a index.html README.md publish/
           touch publish/.nojekyll
       - uses: actions/upload-pages-artifact@v3

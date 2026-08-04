@@ -1,5 +1,5 @@
-# Own remotes / local refs — not part of the Pages/profile repo
-demo_projects/
+# Nested working trees — not part of the ansifi Pages/profile repo
+demos/
 jcatrysse_ror/
 ansif_leads/
 ansif_learns/

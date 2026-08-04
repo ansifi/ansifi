@@ -67,3 +67,10 @@ Full write-ups live under this repository’s GitHub Pages site:
 
 [ansifi.github.io/ansif_leads](https://ansifi.github.io/ansif_leads/) — also in the site nav as **Login**.
 
+---
+
+## Learn & blog (Empever)
+
+- [Empever Learn](https://empever.com/learn) — personal training programmes by Ansif
+- [Empever Blog](https://empever.com/blog) — coding notes and videos
+

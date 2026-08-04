@@ -8,24 +8,18 @@ Roles and employment history: [LinkedIn](https://www.linkedin.com/in/ansifpi/).
 
 ---
 
-## Portfolio projects
+## Portfolio (short URL)
 
-Full write-ups live under this repository’s GitHub Pages site:
+**[ansifi.github.io →](https://ansifi.github.io/)**
 
-**[Portfolio home →](https://ansifi.github.io/ansifi/ansif/portfolio/)**
+| Link | Role |
+| :--- | :--- |
+| [Portfolio](https://ansifi.github.io/) | Projects, demos, expertise |
+| [Learns](https://ansifi.github.io/learns/) | Courses offered + studying |
+| [Leads](https://ansifi.github.io/leads/) | Sevendyne + Ansif lead desk |
+| [Résumé](https://ansifi.github.io/resume.html) | PDF résumé |
 
-| Area | Overview | Page |
-| :--- | :--- | :--- |
-| **C++ / Qt / Embedded** | IVI/HMI, trading desks, USB/protocol consoles, embedded Linux | [Open](https://ansifi.github.io/ansifi/ansif/expertise/cpp-qt-embedded.html) |
-| **Ruby on Rails** | Spree Commerce, catalogue pipelines, e-commerce ops (CSR Informatics, Germany) | [Open](https://ansifi.github.io/ansifi/ansif/expertise/ruby-on-rails.html) |
-| **Python & Backend APIs** | Django platforms, REST services, supply-chain optimisation backends | [Open](https://ansifi.github.io/ansifi/ansif/expertise/python-backend.html) |
-| **Full-stack Web** | Laravel/Vue logistics, Angular/Spring analytics, talent portals | [Open](https://ansifi.github.io/ansifi/ansif/expertise/full-stack-web.html) |
-| **PHP & Payments** | CodeIgniter multi-tenant CRM, PayU/RedDot APAC payment flows | [Open](https://ansifi.github.io/ansifi/ansif/expertise/php-payments.html) |
-| **AI & Data Pipelines** | OpenAI attribute extraction, Zoho automation, governed ETL | [Open](https://ansifi.github.io/ansifi/ansif/expertise/ai-automation.html) |
-
-[All expertise areas →](https://ansifi.github.io/ansifi/ansif/expertise/) · [Résumé (PDF) →](https://ansifi.github.io/ansifi/ansif/resume.html)
-
-Learning site, training, and leads links are on the **[portfolio page](https://ansifi.github.io/ansifi/ansif/portfolio/)**.
+This repository (`ansifi/ansifi`) hosts the GitHub profile README. The public Pages site is **`ansifi/ansifi.github.io`**.
 
 ---
 

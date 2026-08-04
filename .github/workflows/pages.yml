@@ -1,4 +1,4 @@
-# Publish so public paths stay /ansifi/ansif/... (local folder is ansifi_github/).
+# Publish personal blog/portfolio under /ansifi/ansif/...
 name: Deploy Pages
 
 on:
@@ -27,8 +27,8 @@ jobs:
       - name: Prepare publish tree
         run: |
           mkdir -p publish
-          # Local site folder ansifi_github/ → published as ansif/ (stable URLs)
-          cp -a ansifi_github publish/ansif
+          # Personal blog/site lives in ansif/
+          cp -a ansif publish/ansif
           cp -a index.html README.md publish/
           touch publish/.nojekyll
       - uses: actions/upload-pages-artifact@v3

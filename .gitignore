@@ -1,3 +1,5 @@
-# Sibling remotes — not part of ansifi/ansifi
+# Nested clones are siblings under works/ansif/ — not part of this repo
+leads/
+learns/
 ansif_leads/
 ansif_learns/

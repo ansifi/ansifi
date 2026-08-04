@@ -71,6 +71,6 @@ Full write-ups live under this repository’s GitHub Pages site:
 
 ## Learn & blog (Empever)
 
-- [Empever Learn](https://empever.com/learn) — personal training programmes by Ansif
-- [Empever Blog](https://empever.com/blog) — coding notes and videos
+- [ansifi Learn](https://empever.com/learn) — personal training programmes by Ansif
+- [ansifi Blog](https://empever.com/blog) — coding notes and videos
 

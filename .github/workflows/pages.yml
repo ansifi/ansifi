@@ -1,4 +1,4 @@
-# Publish personal blog/portfolio under /ansifi/ansif/...
+# Personal blog/portfolio → https://ansifi.github.io/ansifi/ansif/...
 name: Deploy Pages
 
 on:
@@ -27,7 +27,6 @@ jobs:
       - name: Prepare publish tree
         run: |
           mkdir -p publish
-          # Personal blog/site lives in ansif/
           cp -a ansif publish/ansif
           cp -a index.html README.md publish/
           touch publish/.nojekyll

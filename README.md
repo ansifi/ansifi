@@ -2,45 +2,43 @@
 
 **Research · skills · projects · networks**
 
-## Layout in this repo
+## Why these files sit in the repo root
 
-| Path | What |
-|------|------|
-| **`ansif/`** | Personal blog / portfolio / résumé (GitHub Pages → `/ansifi/ansif/…`) |
-| **`demos/`** | Skill demos — own remotes (ignored by this git) |
-| **`jcatrysse_ror/`** | Contract reference clones — keep as-is (ignored) |
-| `ansif_leads/` · `ansif_learns/` | Local tool checkouts — own remotes (ignored) |
+This folder **is** the GitHub repository [`ansifi/ansifi`](https://github.com/ansifi/ansifi).
+GitHub expects repo plumbing at the **root** of that repo — it cannot live inside `ansif_repos/` or `demo_projects/`:
 
----
+| Root file | Why it must stay here |
+|-----------|------------------------|
+| `.git/` | This is the git repository |
+| `.github/` | Pages / Actions workflows for github.com/ansifi |
+| `README.md` | Profile README shown on [github.com/ansifi](https://github.com/ansifi) |
+| `index.html` | GitHub Pages entry → redirects to the portfolio |
+| `.gitignore` | Keeps other remotes / demos out of this repo |
+
+## Layout
+
+| Path | Role | In this git? |
+|------|------|--------------|
+| **`ansif/`** | Personal blog · portfolio · résumé (Pages) | **yes** |
+| **`ansif_repos/`** | Other remotes (`ansif_leads`, `ansif_learns`) | no (ignored) |
+| **`demo_projects/`** | Skill demos (own remotes) | no (ignored) |
+| **`jcatrysse_ror/`** | Contract reference clones | no (ignored) |
 
 ## Portfolio
 
 **[Portfolio home →](https://ansifi.github.io/ansifi/ansif/portfolio/)**
 
-| Area | Page |
-| :--- | :--- |
-| **C++ / Qt / Embedded** | [Open](https://ansifi.github.io/ansifi/ansif/expertise/cpp-qt-embedded.html) |
-| **Ruby on Rails** | [Open](https://ansifi.github.io/ansifi/ansif/expertise/ruby-on-rails.html) |
-| **Python & Backend APIs** | [Open](https://ansifi.github.io/ansifi/ansif/expertise/python-backend.html) |
-| **Full-stack Web** | [Open](https://ansifi.github.io/ansifi/ansif/expertise/full-stack-web.html) |
-| **PHP & Payments** | [Open](https://ansifi.github.io/ansifi/ansif/expertise/php-payments.html) |
-| **AI & Data Pipelines** | [Open](https://ansifi.github.io/ansifi/ansif/expertise/ai-automation.html) |
-
-[All expertise →](https://ansifi.github.io/ansifi/ansif/expertise/) · [Résumé PDF →](https://ansifi.github.io/ansifi/ansif/resume.html)
-
----
+[Expertise →](https://ansifi.github.io/ansifi/ansif/expertise/) · [Résumé →](https://ansifi.github.io/ansifi/ansif/resume.html)
 
 ## Learn & blog (ansifi site)
 
-- [ansifi Learn](https://empever.com/learn) — personal training programmes
-- [ansifi Blog](https://empever.com/blog) — coding notes and videos
+- [ansifi Learn](https://empever.com/learn)
+- [ansifi Blog](https://empever.com/blog)
 
 ## Private leads login
 
-[ansifi.github.io/ansif_leads](https://ansifi.github.io/ansif_leads/) — also in the site nav as **Login**.
+[ansifi.github.io/ansif_leads](https://ansifi.github.io/ansif_leads/)
 
 ---
 
-## Contact
-
-📧 **ansif.pi@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/ansifpi/) · 💻 [GitHub](https://github.com/ansifi)
+📧 **ansif.pi@gmail.com** · [LinkedIn](https://www.linkedin.com/in/ansifpi/) · [GitHub](https://github.com/ansifi)

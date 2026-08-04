@@ -69,3 +69,10 @@ Personal ops login (soft gate): [ansifi.github.io/ansif_leads](https://ansifi.gi
 
 Also linked from the portfolio nav as **Login**.
 
+---
+
+## Learn & blog (Empever)
+
+- [Empever Learn](https://empever.com/learn) — personal training programmes by Ansif
+- [Empever Blog](https://empever.com/blog) — coding notes and videos
+

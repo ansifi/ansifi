@@ -15,7 +15,7 @@ Roles and employment history: [LinkedIn](https://www.linkedin.com/in/ansifpi/).
 | Link | Role |
 | :--- | :--- |
 | [Portfolio](https://ansifi.github.io/) | Projects, demos, writing, expertise |
-| [Skills](https://ansifi.github.io/7skills/) | Learning areas + blog |
+| [Writing & learning](https://ansifi.github.io/#writing) | Writing and learning areas on the portfolio |
 | [Résumé](https://ansifi.github.io/resume.html) | PDF résumé |
 
 This repository (`ansifi/ansifi`) hosts the GitHub profile README. The public Pages site is **`ansifi/ansifi.github.io`**.

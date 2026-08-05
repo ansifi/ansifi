@@ -1,8 +1,9 @@
 # Nested checkouts under ansif_repos/ — own remotes, not part of ansifi/ansifi
 /portfolio/
+/empever/
+# legacy folder names (if re-cloned under old names)
 /7leads/
 /7skills/
-# legacy folder names (if re-cloned under old names)
 /leads/
 /skills/
 /ansifi.github.io/

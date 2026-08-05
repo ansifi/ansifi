@@ -1,48 +1,57 @@
 # Ansif P. Ibrahimkutty
 
-Engineer · founder · writer — legacy stacks, AI-assisted delivery, and startup building.
+**Research · skills · projects · networks**
 
-[Portfolio](https://ansifi.github.io/) · [Skills](https://ansifi.github.io/7skills/) · [LinkedIn](https://www.linkedin.com/in/ansifpi/) · [Medium](https://medium.com/@ansifpi) · [DEV.to](https://dev.to/ansifi)
+I do research work to learn new tech skills, apply them on projects, and build professional networks — across embedded systems, backends, full-stack platforms, and applied AI.
 
----
-
-## Expertise
-
-| Area | Focus |
-| :--- | :--- |
-| **Legacy coding frameworks** | C++/Qt, Rails, Django, Laravel, Java/Spring, PHP, Node.js, Angular/Vue/React, Redmine, Spree — keep long-lived systems running and upgraded |
-| **Cursor & Claude prompting** | Prompt patterns, agent tool loops, review checklists — assistants that speed delivery without leaking trust |
-| **Startup building & investment** | Cross-border delivery (Sevendyne), tech-team cost audits, founder/investor conversations — building without defaulting to VC |
-
-Full learning log: [ansifi.github.io/7skills](https://ansifi.github.io/7skills/)
+Roles and employment history: [LinkedIn](https://www.linkedin.com/in/ansifpi/).
 
 ---
 
-## Writing (expertise in public)
+## Portfolio (short URL)
 
-| Post | Topics |
-| :--- | :--- |
-| [How I Built a Cross-Border Tech Delivery Firm from Kochi — Without Raising VC Money](https://ansifpi.medium.com/how-i-built-a-cross-border-tech-delivery-firm-from-kochi-without-raising-vc-money-6a817f3f2546) | Startup · Medium |
-| [Why Startups Lose Money on Tech Teams](https://dev.to/ansifi/why-startups-lose-money-on-tech-teams-i0j) | Startup · DEV |
-| [How We Structured a Production Django HRMS for Docker Deployment](https://dev.to/ansifi/how-we-structured-a-production-django-hrms-for-docker-deployment-3i5l) | Legacy frameworks · DEV |
-| [We open-sourced our Django HRMS](https://medium.com/@ansifpi) | Legacy frameworks · Medium |
-| [SOLID Principles](https://medium.com/@ansifpi) | Legacy frameworks · Medium |
-| [Pointer Use-Cases · Dynamic Memory Allocation (C++)](https://medium.com/@ansifpi) | Legacy frameworks · Medium |
-
-More: [Medium](https://medium.com/@ansifpi) · [DEV.to](https://dev.to/ansifi) · [Skills blog](https://ansifi.github.io/7skills/#/blog)
-
----
-
-## Portfolio & résumé
+**[ansifi.github.io →](https://ansifi.github.io/)**
 
 | Link | Role |
 | :--- | :--- |
-| [Portfolio](https://ansifi.github.io/) | Projects, demos, expertise pages |
+| [Portfolio](https://ansifi.github.io/) | Projects, demos, writing, expertise |
+| [Skills](https://ansifi.github.io/7skills/) | Learning areas + blog |
 | [Résumé](https://ansifi.github.io/resume.html) | PDF résumé |
-| [Skills](https://ansifi.github.io/7skills/) | Learning areas + writing |
+
+This repository (`ansifi/ansifi`) hosts the GitHub profile README. The public Pages site is **`ansifi/ansifi.github.io`**.
 
 ---
 
-## Contact
+## Selected programme highlights
 
-**ansif.pi@gmail.com** · [LinkedIn](https://www.linkedin.com/in/ansifpi/) · [Stack Overflow](https://stackoverflow.com/users/1658570/ansif) · [GitHub](https://github.com/ansifi)
+### Intelligent E-Commerce & Recruitment Automation (CSR Informatics, Germany)
+* **AI Catalog Pipeline:** Ruby on Rails / Spree Commerce with Python scraping workers and OpenAI APIs for product attribute extraction and ETL into SQL Server.
+* **Workflow-Gated ATS Automation:** Python systems querying Zoho REST APIs to match, clean, and pipe candidates with operator review gates.
+`Ruby on Rails · Spree · Python · OpenAI · SQL Server`
+
+### Low-Latency Desktop Architectures (FinTech & Embedded)
+* **Custom Desktop Trading Desks:** High-throughput, multi-window trading software in C++/Qt/Wt over proprietary market data adapters.
+* **USB Protocol Tester:** C++/Qt validation console with raw socket programming for embedded hardware (HexoSys, Malaysia).
+`C++ · Qt · QML · Wt · Embedded Linux · Sockets`
+
+### High-Throughput Transaction Systems (Niaga Prestasi, Malaysia)
+* **TLMS Freight Platform:** Re-architected a legacy synchronous backend into Laravel queue workers for cross-border Malaysia–Singapore shipments.
+`Laravel · Vue.js · MySQL · Redis · RabbitMQ`
+
+---
+
+## Technical domain focus
+
+| Paradigm | Core languages & ecosystems |
+| :--- | :--- |
+| **Low-Level & Desktop** | C++, Qt, QML, VC++, Wt, Sockets, IPC, Embedded Linux, HMI/IVI |
+| **Web & Microservices** | Ruby on Rails (Spree, Redmine), Python (Django, Flask), Laravel, Node.js |
+| **Front-End & Dashboards** | Next.js, React, Angular, Vue.js, Apache eCharts, CSS/SCSS |
+| **Data & Automation** | OpenAI APIs, Browser Automation, PostgreSQL, MySQL, SQL Server, SQLite |
+| **DevOps & Infrastructure** | Docker, Docker Compose, GCP Cloud Run, Nginx, Multi-tenant DB isolation |
+
+---
+
+## Contact & links
+
+📧 **ansif.pi@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/ansifpi/) · 📊 [Stack Overflow](https://stackoverflow.com/users/1658570/ansif) · ✍️ [Medium](https://ansifpi.medium.com/) · 💻 [GitHub](https://github.com/ansifi)

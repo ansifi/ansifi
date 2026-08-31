@@ -1,5 +1,9 @@
-# Nested checkouts under ansif_repos/ — own remotes, not part of ansifi/ansifi
+# Nested checkouts — own remotes, not part of ansifi/ansifi
 /portfolio/
+/portfolio_legacy/
+/resumes/
+/proposals/
+/notes/
 # legacy folder names (if re-cloned under old names)
 /empever/
 /7leads/
@@ -11,3 +15,6 @@
 /ansif_leads/
 /ansif_learns/
 /ansif_skills/
+
+# Passwords — never commit
+AnsifLinks.docx

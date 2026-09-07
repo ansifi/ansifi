@@ -1,57 +1,21 @@
 # Ansif P. Ibrahimkutty
 
-**Research · skills · projects · networks**
+**Software developer** · ~20 years building production applications
 
-I do research work to learn new tech skills, apply them on projects, and build professional networks — across embedded systems, backends, full-stack platforms, and applied AI.
+Currently focused on **Ruby on Rails** and **Redmine** plugin development.
 
-Roles and employment history: [LinkedIn](https://www.linkedin.com/in/ansifpi/).
-
----
-
-## Portfolio (short URL)
-
-**[ansifi.github.io →](https://ansifi.github.io/)**
-
-| Link | Role |
-| :--- | :--- |
-| [Portfolio](https://ansifi.github.io/) | Projects, demos, writing, expertise |
-| [Writing & learning](https://ansifi.github.io/#writing) | Writing and learning areas on the portfolio |
-| [Résumé](https://ansifi.github.io/resume.html) | PDF résumé |
-
-This repository (`ansifi/ansifi`) hosts the GitHub profile README. The public Pages site is **`ansifi/ansifi.github.io`**.
+**[Portfolio → ansifi.github.io](https://ansifi.github.io/)** · [Résumé](https://ansifi.github.io/resume.html) · [LinkedIn](https://www.linkedin.com/in/ansifpi/) · [GitHub](https://github.com/ansifi) · [Medium](https://medium.com/@ansifpi)
 
 ---
 
-## Selected programme highlights
+## Recent work
 
-### Intelligent E-Commerce & Recruitment Automation (CSR Informatics, Germany)
-* **AI Catalog Pipeline:** Ruby on Rails / Spree Commerce with Python scraping workers and OpenAI APIs for product attribute extraction and ETL into SQL Server.
-* **Workflow-Gated ATS Automation:** Python systems querying Zoho REST APIs to match, clean, and pipe candidates with operator review gates.
-`Ruby on Rails · Spree · Python · OpenAI · SQL Server`
+**[Redmine Time Export](https://github.com/ansifi/redmine-time-export)** — Redmine plugin to export project spent time to CSV/XLSX, grouped by user (Redmine 6.1.x).
 
-### Low-Latency Desktop Architectures (FinTech & Embedded)
-* **Custom Desktop Trading Desks:** High-throughput, multi-window trading software in C++/Qt/Wt over proprietary market data adapters.
-* **USB Protocol Tester:** C++/Qt validation console with raw socket programming for embedded hardware (HexoSys, Malaysia).
-`C++ · Qt · QML · Wt · Embedded Linux · Sockets`
-
-### High-Throughput Transaction Systems (Niaga Prestasi, Malaysia)
-* **TLMS Freight Platform:** Re-architected a legacy synchronous backend into Laravel queue workers for cross-border Malaysia–Singapore shipments.
-`Laravel · Vue.js · MySQL · Redis · RabbitMQ`
+Rails / Spree Commerce AI catalogue pipeline (CSR Informatics, Germany) · Sevendyne multi-service platform on GCP Cloud Run · C++/Qt systems delivery.
 
 ---
 
-## Technical domain focus
+📧 ansif.pi@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/ansifpi/) · 💻 [GitHub](https://github.com/ansifi) · ✍️ [Medium](https://medium.com/@ansifpi)
 
-| Paradigm | Core languages & ecosystems |
-| :--- | :--- |
-| **Low-Level & Desktop** | C++, Qt, QML, VC++, Wt, Sockets, IPC, Embedded Linux, HMI/IVI |
-| **Web & Microservices** | Ruby on Rails (Spree, Redmine), Python (Django, Flask), Laravel, Node.js |
-| **Front-End & Dashboards** | Next.js, React, Angular, Vue.js, Apache eCharts, CSS/SCSS |
-| **Data & Automation** | OpenAI APIs, Browser Automation, PostgreSQL, MySQL, SQL Server, SQLite |
-| **DevOps & Infrastructure** | Docker, Docker Compose, GCP Cloud Run, Nginx, Multi-tenant DB isolation |
-
----
-
-## Contact & links
-
-📧 **ansif.pi@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/ansifpi/) · 📊 [Stack Overflow](https://stackoverflow.com/users/1658570/ansif) · ✍️ [Medium](https://ansifpi.medium.com/) · 💻 [GitHub](https://github.com/ansifi)
+Portfolio site: **`ansifi/ansifi.github.io`** · Profile README: **`ansifi/ansifi`** (this repo)

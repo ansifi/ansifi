@@ -12,8 +12,6 @@ Currently focused on **Ruby on Rails** and **Redmine** plugin development.
 
 **[Redmine Time Export](https://github.com/ansifi/redmine-time-export)** — Redmine plugin to export project spent time to CSV/XLSX, grouped by user (Redmine 6.1.x).
 
-Rails / Spree Commerce AI catalogue pipeline (European e-commerce client) · Multi-service cloud platform on GCP · C++/Qt systems delivery.
-
 ---
 
 💼 [LinkedIn](https://www.linkedin.com/in/ansifpi/) · 💻 [GitHub](https://github.com/ansifi) · ✍️ [Medium](https://medium.com/@ansifpi)

@@ -14,6 +14,8 @@ Currently focused on **Ruby on Rails** and **Redmine** plugin development.
 
 Rails / Spree Commerce AI catalogue pipeline (European e-commerce client) · Multi-service cloud platform on GCP · C++/Qt systems delivery.
 
+Local daily-task desk: [ansifi/axxxx_robotics](https://github.com/ansifi/axxxx_robotics) (private, localhost).
+
 ---
 
 💼 [LinkedIn](https://www.linkedin.com/in/ansifpi/) · 💻 [GitHub](https://github.com/ansifi) · ✍️ [Medium](https://medium.com/@ansifpi)

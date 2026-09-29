@@ -94,9 +94,3 @@ Kerala board schooling, then engineering:
 - **SSLC** (Class 10) — Kerala  
 - **Higher Secondary (HSE / Plus Two)** — Kerala  
 - **B.E. Computer Science** — TKM College of Engineering, Kollam · Kerala University · 2002 – 2006
-
----
-
-## Open to
-
-Remote **software developer**, **backend**, or **full-stack** roles. Full chronology and contact: [Ansif_Resume.pdf](Ansif_Resume.pdf) · site [ansifi.github.io](https://ansifi.github.io/).

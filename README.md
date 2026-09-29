@@ -39,16 +39,10 @@ Keralite. **Native of Kottayam.** Currently live in **Aluva, Kochi (Cochin)**, c
 
 **Sep 2016 – present** · Kochi (remote delivery)
 
-Co-founder. Client software during the week, plus India payroll and the in-house platform for the teams we support.
+Co-founder. Client software during the week, plus India payroll for the teams we support.
 
 **Public tooling**
 - [Redmine Time Export](https://github.com/ansifi/redmine-time-export) — export project spent time to CSV/XLSX, grouped by user (Redmine 6.1.x)
-
-**Sevendyne platform (Dec 2025 – present)** — Docker locally, GCP Cloud Run in production, nginx path routing
-- **Payrolls HRMS** — Django + Next.js; monthly runs, payslips, invoicing, PF/ESIC/TDS/GST, per-client databases
-- **Jobs portal** — employer/candidate workspaces, résumé intake, CRM bridge, interview APIs
-- **Academy** — lesson completion, topic-test scoring, embed auth
-- **Marketing / CRM** — Node APIs, SQLite tenant CRM, outreach wired to jobs
 
 **Quantyf — Python backend (contract)** · Jun 2025 – Nov 2025  
 REST APIs for supply-chain “what-if” optimisation: scenario input, run status, results; code review on solver/data-pipeline modules.

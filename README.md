@@ -35,33 +35,42 @@ Keralite. **Native of Kottayam.** Currently live in **Aluva, Kochi (Cochin)**, c
 
 ## Experience and projects
 
-### Sevendyne — payroll consultant & software developer
+### Sevendyne Consultancy Services LLP — full-time · Sep 2016 – present
 
-**Sep 2016 – present** · Kochi (remote delivery)
+Kochi, Kerala, India · Hybrid · [sevendyne.com](https://www.sevendyne.com/)
 
-Co-founder. Client software during the week, plus India payroll for the teams we support.
+**Co-Founder** · Sep 2016 – Present · Kochi, Hybrid  
+Co-founded Sevendyne as the vehicle for the research and development work; the entity now also provides client staffing and payroll services alongside project delivery.  
+*Team building · Operations management · Project delivery*
 
-**Public tooling**
-- [Redmine Time Export](https://github.com/ansifi/redmine-time-export) — export project spent time to CSV/XLSX, grouped by user (Redmine 6.1.x)
+**Business Development Manager** · Jan 2025 – Aug 2026 · Kochi, Hybrid  
+Client communication and project support.
 
-**Quantyf — Python backend (contract)** · Jun 2025 – Nov 2025  
-REST APIs for supply-chain “what-if” optimisation: scenario input, run status, results; code review on solver/data-pipeline modules.
+**Systems Developer (US Electronics Client)** · Sep 2024 – Dec 2024 · Kochi, Hybrid  
+Delivered a C++ systems engineering project, continuing hands-on low-level development alongside architecture work.  
+*C++*
 
-**CSR Informatics GmbH, Germany** · May 2022 – Mar 2025 · via Sevendyne
-- **Zoho Recruit automation** (2024–2025) — Python + OpenAI candidate search/import, SQL loaders, operator review gates
-- **E-commerce / AI catalogue** (2023–2024) — Ruby on Rails + Spree; Python scrapers + OpenAI extraction; ETL to SQL Server
-- **Restaurant analytics** (2022–2023) — Angular + Spring Boot + PostgreSQL; Apache eCharts KPI dashboards
+**AI / Fullstack Developer (German Analytical Client)** · May 2022 – Sep 2024 · Kochi, Hybrid  
+Engineered a Ruby on Rails/Spree catalogue processor paired with Python + OpenAI automation for structured data extraction (CSR Informatics GmbH, Germany). Built multi-site performance dashboards on Spring Boot and Angular with Apache eCharts. Designed Python REST API frameworks for supply-chain “what-if” simulation models (Quantyf, UAE).  
+*Python · Ruby on Rails · Angular · OpenAI · Spring Boot*
 
-**Niaga Prestasi, Malaysia** · Sep 2019 – May 2022 · via Sevendyne
-- **TLMS logistics** — Laravel + Vue.js + MySQL + queues; freight platform Malaysia–Singapore; live shipments after deadlock rework
-- **PayU / RedDot payment CRM** — CodeIgniter/PHP multi-tenant CRM; Android + web QR checkout in APAC production
-- **RedDot EMI / merchant onboarding** — modular PHP + Android field app
-- **Tokenised property wallet** (2020–2021) — React + Solidity + Truffle + Web3.js
+**Fullstack Developer — CodeIgniter Platform (Fintech Client)** · Sep 2021 – May 2022 · Kochi  
+Built and maintained a PHP/CodeIgniter web platform for an e-commerce client, including backend logic and front-end integration.  
+*PHP · CodeIgniter*
 
-**Earlier Sevendyne client delivery (2016 – 2019)**
-- **Trading desk UI** — C++/Qt/Wt, low-latency multi-window operator desks, market-data adapters
-- **Navigation product (Germany)** — embedded C++ on Linux, real-time features
-- **UK automotive / industrial** — C++ and automation on long OEM programmes (PLC/SCADA coordination)
+**Fullstack Developer — Laravel Platform (Logistics Client)** · Sep 2019 – Apr 2021 · Kochi  
+Delivered a fullstack Laravel platform end to end for a logistics client, covering backend architecture and application logic.  
+*Laravel · PHP · MySQL*
+
+**Research Developer — Code Review Platform (Engineering Tools Client)** · May 2018 – Sep 2019 · Kochi, Remote  
+Developed a C++/Qt based code review tool for an engineering tools client.  
+*C++ · Qt*
+
+**Research Developer — Trading System API (Fintech Client)** · Mar 2016 – Sep 2018 · Kottayam, Hybrid  
+Built a C++/Qt trading system API handling real-time market data streams for a fintech startup client, delivered directly while co-founding Sevendyne.  
+*C++ · Qt · Real-time systems*
+
+Public tooling: [Redmine Time Export](https://github.com/ansifi/redmine-time-export) — export project spent time to CSV/XLSX, grouped by user (Redmine 6.1.x).
 
 ### Freelance software developer · Jan 2012 – Aug 2016 · India, remote
 

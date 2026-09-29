@@ -37,9 +37,6 @@ Kochi, Kerala, India · Hybrid · [sevendyne.com](https://www.sevendyne.com/)
 Co-founded Sevendyne as the vehicle for the research and development work; the entity now also provides client staffing and payroll services alongside project delivery.  
 *Team building · Operations management · Project delivery*
 
-**Business Development Manager** · Jan 2025 – Aug 2026 · Kochi, Hybrid  
-Client communication and project support.
-
 **Systems Developer (US Electronics Client)** · Sep 2024 – Dec 2024 · Kochi, Hybrid  
 Delivered a C++ systems engineering project, continuing hands-on low-level development alongside architecture work.  
 *C++*

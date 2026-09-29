@@ -1,11 +1,17 @@
 # Ansif P. Ibrahimkutty
 
 **Software developer** · **20+ years** building production software (2006 – present)  
-Kochi, India · remote
+Native **Kottayam**, Kerala · lives in **Aluva, Kochi**, near Cochin International Airport · remote
 
 [Portfolio](https://ansifi.github.io/) · [Résumé (PDF)](Ansif_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/ansifpi/) · [GitHub](https://github.com/ansifi) · [Medium](https://medium.com/@ansifpi) · [DEV](https://dev.to/ansifi)
 
 Hands-on delivery across **embedded C++/Qt**, **full-stack web**, **mobile**, **payments**, **AI data pipelines**, and **India payroll / HRMS**. Since **2016** I co-founded **[Sevendyne](https://www.sevendyne.com/)** (technical talent consultancy) and still ship as developer and payroll consultant for remote teams in the UK, Germany, Malaysia, Singapore, UAE, and the US.
+
+---
+
+## Personal
+
+Keralite. **Native of Kottayam.** Currently live in **Aluva, Kochi (Cochin)**, close to **Cochin International Airport** — convenient for remote work with occasional travel.
 
 ---
 
@@ -80,7 +86,11 @@ REST APIs for supply-chain “what-if” optimisation: scenario input, run statu
 
 ## Education
 
-**B.E. Computer Science** — TKM College of Engineering, Kerala University · 2002 – 2006
+Kerala board schooling, then engineering:
+
+- **SSLC** (Class 10) — Kerala  
+- **Higher Secondary (HSE / Plus Two)** — Kerala  
+- **B.E. Computer Science** — TKM College of Engineering, Kollam · Kerala University · 2002 – 2006
 
 ---
 

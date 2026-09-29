@@ -9,12 +9,6 @@ Hands-on delivery across **embedded C++/Qt**, **full-stack web**, **mobile**, **
 
 ---
 
-## Personal
-
-Keralite. **Native of Kottayam.** Currently live in **Aluva, Kochi (Cochin)**, close to **Cochin International Airport** — convenient for remote work with occasional travel.
-
----
-
 ## Skills
 
 **Languages & systems:** C · C++ · VC++ · C# / .NET · Python · PHP · Ruby · JavaScript / TypeScript · Java · Solidity · SQL
@@ -86,6 +80,9 @@ Public tooling: [Redmine Time Export](https://github.com/ansifi/redmine-time-exp
 - **UCI / IntegralSoft** (2006–2008) — VC++ USB modelling, trading utilities, CAD tools
 
 ---
+
+## Location
+Keralite. **Native of Kottayam.** Currently live in **Aluva, Kochi (Cochin)**, close to **Cochin International Airport**
 
 ## Education
 

@@ -1,100 +1,117 @@
 %PDF-1.4
 1 0 obj<< /Type /Catalog /Pages 2 0 R >>endobj
-2 0 obj<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>endobj
-3 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> >>endobj
-4 0 obj<< /Length 3778 >>stream
+2 0 obj<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>endobj
+3 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> >>endobj
+4 0 obj<< /Length 3882 >>stream
 BT /F2 18.0 Tf 54.0 738.0 Td (Ansif P. Ibrahimkutty) Tj ET
 BT /F1 11.0 Tf 54.0 709.7 Td (Software Developer & Systems Architect) Tj ET
 BT /F1 9.0 Tf 54.0 688.9 Td (linkedin.com/in/ansifpi  |  github.com/ansifi) Tj ET
 BT /F2 10.0 Tf 54.0 658.7 Td (PROFESSIONAL PROFILE) Tj ET
 BT /F1 10.0 Tf 54.0 639.2 Td (Software developer and systems architect with ~20 years building production software across Ruby on) Tj ET
 BT /F1 10.0 Tf 54.0 625.7 Td (Rails, Redmine, C++/Qt, Python, Laravel, and full-stack web platforms. Co-founder of Sevendyne) Tj ET
-BT /F1 10.0 Tf 54.0 612.2 Td (Consultancy Services LLP \(2016\). Currently focused on Ruby on Rails and Redmine plugin development.) Tj ET
-BT /F2 10.0 Tf 54.0 582.7 Td (TECHNICAL EXPERTISE) Tj ET
-BT /F1 10.0 Tf 54.0 563.2 Td (- Languages & Frameworks: Ruby on Rails, Redmine, Spree, C++/Qt, Python, Django, Flask, Laravel, PHP,) Tj ET
-BT /F1 10.0 Tf 72.0 549.7 Td (CodeIgniter, Node.js, Spring Boot, Next.js, Vue.js, Angular, React, VC++) Tj ET
-BT /F1 10.0 Tf 54.0 532.2 Td (- Data & AI Systems: OpenAI API integration, automated scraping/ETL pipelines, PostgreSQL, MySQL, SQL) Tj ET
-BT /F1 10.0 Tf 72.0 518.7 Td (Server, SQLite) Tj ET
-BT /F1 10.0 Tf 54.0 501.2 Td (- Infrastructure & DevOps: GCP Cloud Run, Docker, Nginx, Cloud Build, Kaniko, Artifact Registry,) Tj ET
-BT /F1 10.0 Tf 72.0 487.7 Td (Embedded Linux, Sockets, IPC) Tj ET
-BT /F1 10.0 Tf 54.0 470.2 Td (- Domain Strengths: Redmine plugins, full-stack platform design, real-time/low-latency systems,) Tj ET
-BT /F1 10.0 Tf 72.0 456.7 Td (embedded automotive software, team building and operations) Tj ET
-BT /F2 10.0 Tf 54.0 427.2 Td (CORE EXPERIENCE & PROJECTS) Tj ET
-BT /F2 10.0 Tf 54.0 405.7 Td (Co-Founder) Tj ET
-BT /F1 9.0 Tf 54.0 390.2 Td (Sevendyne Consultancy Services LLP  |  Sep 2016 - Present  |  Kochi, Hybrid) Tj ET
-BT /F1 10.0 Tf 54.0 373.1 Td (- Co-founded Sevendyne as the vehicle for research and development work; the entity now also provides) Tj ET
-BT /F1 10.0 Tf 72.0 359.6 Td (client staffing and payroll services alongside project delivery.) Tj ET
-BT /F1 9.0 Tf 54.0 343.1 Td (Team Building, Operations Management, Project Delivery) Tj ET
-BT /F2 10.0 Tf 54.0 322.9 Td (AI / Fullstack Developer - German Analytical Client) Tj ET
-BT /F1 9.0 Tf 54.0 307.4 Td (Sevendyne  |  May 2022 - Sep 2024  |  Kochi, Hybrid) Tj ET
-BT /F1 10.0 Tf 54.0 290.3 Td (- Engineered a Ruby on Rails/Spree catalogue processor paired with Python + OpenAI automation for) Tj ET
-BT /F1 10.0 Tf 72.0 276.8 Td (structured data extraction \(CSR Informatics GmbH, Germany\).) Tj ET
-BT /F1 10.0 Tf 54.0 260.3 Td (- Built multi-site performance dashboards on Spring Boot and Angular with Apache eCharts.) Tj ET
-BT /F1 10.0 Tf 54.0 243.8 Td (- Designed Python REST API frameworks for supply-chain what-if simulation models \(Quantyf, UAE\).) Tj ET
-BT /F1 9.0 Tf 54.0 227.3 Td (Python, Ruby on Rails, Spree, Angular, OpenAI, Spring Boot, Apache eCharts) Tj ET
-BT /F2 10.0 Tf 54.0 207.1 Td (Fullstack Developer - CodeIgniter Platform \(Fintech Client\)) Tj ET
-BT /F1 9.0 Tf 54.0 191.6 Td (Sevendyne  |  Sep 2021 - May 2022  |  Kochi, India) Tj ET
-BT /F1 10.0 Tf 54.0 174.5 Td (- Built and maintained a PHP/CodeIgniter web platform for an e-commerce client, including backend logic) Tj ET
-BT /F1 10.0 Tf 72.0 161.0 Td (and front-end integration.) Tj ET
-BT /F1 9.0 Tf 54.0 144.5 Td (PHP, CodeIgniter) Tj ET
-BT /F2 10.0 Tf 54.0 124.3 Td (Fullstack Developer - Laravel Platform \(Logistics Client\)) Tj ET
-BT /F1 9.0 Tf 54.0 108.8 Td (Sevendyne  |  Sep 2019 - Apr 2021  |  Kochi, India) Tj ET
-BT /F1 10.0 Tf 54.0 91.7 Td (- Delivered a fullstack Laravel platform end to end for a logistics client, covering backend) Tj ET
-BT /F1 10.0 Tf 72.0 78.2 Td (architecture and application logic.) Tj ET
+BT /F1 10.0 Tf 54.0 612.2 Td (Consultancy Services LLP \(2016\). Currently a Ruby on Rails / Redmine developer for a Belgium marine data) Tj ET
+BT /F1 10.0 Tf 54.0 598.7 Td (analytics client. Previously built Sevendyne's HR payroll and accounts platform.) Tj ET
+BT /F2 10.0 Tf 54.0 569.2 Td (TECHNICAL EXPERTISE) Tj ET
+BT /F1 10.0 Tf 54.0 549.7 Td (- Languages & Frameworks: Ruby on Rails, Redmine, Spree, C++/Qt, Python, Django, Flask, Laravel, PHP,) Tj ET
+BT /F1 10.0 Tf 72.0 536.2 Td (CodeIgniter, Node.js, Spring Boot, Next.js, Vue.js, Angular, React, VC++) Tj ET
+BT /F1 10.0 Tf 54.0 518.7 Td (- Data & AI Systems: OpenAI API integration, automated scraping/ETL pipelines, PostgreSQL, MySQL, SQL) Tj ET
+BT /F1 10.0 Tf 72.0 505.2 Td (Server, SQLite) Tj ET
+BT /F1 10.0 Tf 54.0 487.7 Td (- Infrastructure & DevOps: GCP Cloud Run, Docker, Nginx, Cloud Build, Kaniko, Artifact Registry,) Tj ET
+BT /F1 10.0 Tf 72.0 474.2 Td (Embedded Linux, Sockets, IPC) Tj ET
+BT /F1 10.0 Tf 54.0 456.7 Td (- Domain Strengths: Redmine plugins, full-stack platform design, real-time/low-latency systems,) Tj ET
+BT /F1 10.0 Tf 72.0 443.2 Td (embedded automotive software, team building and operations) Tj ET
+BT /F2 10.0 Tf 54.0 413.7 Td (CORE EXPERIENCE & PROJECTS) Tj ET
+BT /F2 10.0 Tf 54.0 392.2 Td (Co-Founder) Tj ET
+BT /F1 9.0 Tf 54.0 376.7 Td (Sevendyne Consultancy Services LLP  |  Sep 2016 - Present  |  Kochi, Hybrid) Tj ET
+BT /F1 10.0 Tf 54.0 359.6 Td (- Co-founded Sevendyne as the vehicle for research and development work; the entity now also provides) Tj ET
+BT /F1 10.0 Tf 72.0 346.1 Td (client staffing and payroll services alongside project delivery.) Tj ET
+BT /F1 9.0 Tf 54.0 329.6 Td (Team Building, Operations Management, Project Delivery) Tj ET
+BT /F2 10.0 Tf 54.0 309.4 Td (Ruby on Rails / Redmine Developer - Belgium Marine Data Analytics Client) Tj ET
+BT /F1 9.0 Tf 54.0 293.9 Td (Sevendyne  |  late Sep 2026 - Present  |  Kochi, Hybrid) Tj ET
+BT /F1 10.0 Tf 54.0 276.8 Td (- Working in the Redmine codebase for a marine data analytics company in Belgium: plugin development,) Tj ET
+BT /F1 10.0 Tf 72.0 263.3 Td (issue and time workflows, code management, and related Rails / Redmine platform work.) Tj ET
+BT /F1 9.0 Tf 54.0 246.8 Td (Ruby on Rails, Redmine, plugins) Tj ET
+BT /F2 10.0 Tf 54.0 226.6 Td (Software Developer - Payroll & Accounts \(Sevendyne\)) Tj ET
+BT /F1 9.0 Tf 54.0 211.1 Td (Sevendyne  |  Jan 2025 - mid Sep 2026  |  Kochi, Hybrid) Tj ET
+BT /F1 10.0 Tf 54.0 194.0 Td (- Designed and shipped Sevendyne's internal HR payroll and accounts platform: client and staff records,) Tj ET
+BT /F1 10.0 Tf 72.0 180.5 Td (invoices, consultant payouts, bank ledger, and India compliance \(GST / PF / ESIC / TDS\).) Tj ET
+BT /F1 9.0 Tf 54.0 164.0 Td (Django, Next.js, SQLite, India payroll) Tj ET
+BT /F2 10.0 Tf 54.0 143.8 Td (AI / Fullstack Developer - German Analytical Client) Tj ET
+BT /F1 9.0 Tf 54.0 128.3 Td (Sevendyne  |  May 2022 - Sep 2024  |  Kochi, Hybrid) Tj ET
+BT /F1 10.0 Tf 54.0 111.2 Td (- Engineered a Ruby on Rails/Spree catalogue processor paired with Python + OpenAI automation for) Tj ET
+BT /F1 10.0 Tf 72.0 97.7 Td (structured data extraction \(CSR Informatics GmbH, Germany\).) Tj ET
+BT /F1 10.0 Tf 54.0 81.2 Td (- Built multi-site performance dashboards on Spring Boot and Angular with Apache eCharts.) Tj ET
 endstream
 endobj
-5 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> >>endobj
-6 0 obj<< /Length 3066 >>stream
-BT /F1 9.0 Tf 54.0 738.0 Td (Laravel, PHP, MySQL) Tj ET
-BT /F2 10.0 Tf 54.0 717.9 Td (Research Developer - Code Review Platform \(Engineering Tools Client\)) Tj ET
-BT /F1 9.0 Tf 54.0 702.4 Td (Sevendyne  |  May 2018 - Sep 2019  |  Kochi, Remote) Tj ET
-BT /F1 10.0 Tf 54.0 685.2 Td (- Developed a C++/Qt based code review tool for an engineering tools client.) Tj ET
-BT /F1 9.0 Tf 54.0 668.7 Td (C++, Qt) Tj ET
-BT /F2 10.0 Tf 54.0 648.6 Td (Research Developer - Trading System API \(Fintech Client\)) Tj ET
-BT /F1 9.0 Tf 54.0 633.1 Td (Sevendyne  |  Mar 2016 - Sep 2018  |  Kottayam, Hybrid) Tj ET
-BT /F1 10.0 Tf 54.0 615.9 Td (- Built a C++/Qt trading system API handling real-time market data streams for a fintech startup) Tj ET
-BT /F1 10.0 Tf 72.0 602.4 Td (client, delivered directly while co-founding Sevendyne.) Tj ET
-BT /F1 9.0 Tf 54.0 585.9 Td (C++, Qt, Real-Time Systems) Tj ET
-BT /F2 10.0 Tf 54.0 565.8 Td (Independent Systems Architect) Tj ET
-BT /F1 9.0 Tf 54.0 550.3 Td (Self-Employed  |  Jan 2012 - Sep 2016  |  Kottayam, Hybrid) Tj ET
-BT /F1 10.0 Tf 54.0 533.1 Td (- Engineered a property administration platform \(Wise Owl Property Management\) using C++ and Webtoolkit) Tj ET
-BT /F1 10.0 Tf 72.0 519.6 Td (\(Wt\) to service dense tenancy pipelines \(2015-2016\).) Tj ET
-BT /F1 10.0 Tf 54.0 503.1 Td (- Built Montal, a 2D game project using C++/Qt covering game state architecture and dynamic UI scaling) Tj ET
-BT /F1 10.0 Tf 72.0 489.6 Td (components \(2012-2014\).) Tj ET
-BT /F1 9.0 Tf 54.0 473.1 Td (C++, Qt, Wt) Tj ET
-BT /F2 10.0 Tf 54.0 453.0 Td (Software Engineer - Automotive HMI & IVI) Tj ET
-BT /F1 9.0 Tf 54.0 437.5 Td (HCLTech  |  Feb 2014 - Feb 2015  |  Delhi, On-site) Tj ET
-BT /F1 10.0 Tf 54.0 420.3 Td (- Developed C++/Qt based HMI and IVI \(In-Vehicle Infotainment\) systems for automotive platforms.) Tj ET
-BT /F1 9.0 Tf 54.0 403.8 Td (C++, Qt, HMI, IVI, Automotive) Tj ET
-BT /F2 10.0 Tf 54.0 383.7 Td (Software Engineer) Tj ET
-BT /F1 9.0 Tf 54.0 368.2 Td (HexoSys Group  |  Sep 2009 - Sep 2011  |  Kuala Lumpur, On-site) Tj ET
-BT /F1 10.0 Tf 54.0 351.0 Td (- Engineered C++ Qt and VC++ based USB protocol testing applications. Managed complex device protocol) Tj ET
-BT /F1 10.0 Tf 72.0 337.5 Td (debugging \(TCP/UDP\) for hardware systems.) Tj ET
-BT /F1 9.0 Tf 54.0 321.0 Td (C++, Qt, VC++, Sockets, Embedded Hardware) Tj ET
-BT /F2 10.0 Tf 54.0 300.9 Td (Trainee Software Engineer) Tj ET
-BT /F1 9.0 Tf 54.0 285.4 Td (Integral & UCI Tech  |  Apr 2007 - Apr 2009  |  Kochi, On-site) Tj ET
-BT /F1 10.0 Tf 54.0 268.2 Td (- Began professional software career writing VC++ systems automation tools, custom CAD geometric format) Tj ET
-BT /F1 10.0 Tf 72.0 254.7 Td (parsers, and low-level USB peripheral modeling applications \(Pathmodeler\).) Tj ET
-BT /F1 9.0 Tf 54.0 238.2 Td (VC++, CAD Parsers, Embedded Tools) Tj ET
-BT /F2 10.0 Tf 54.0 210.1 Td (EDUCATION) Tj ET
-BT /F2 10.0 Tf 54.0 190.6 Td (B.Tech in Computer Science & Engineering) Tj ET
-BT /F1 9.0 Tf 54.0 175.1 Td (TKM College of Engineering, Kerala University  |  2002 - 2006) Tj ET
+5 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> >>endobj
+6 0 obj<< /Length 3849 >>stream
+BT /F1 10.0 Tf 54.0 738.0 Td (- Designed Python REST API frameworks for supply-chain what-if simulation models \(Quantyf, UAE\).) Tj ET
+BT /F1 9.0 Tf 54.0 721.5 Td (Python, Ruby on Rails, Spree, Angular, OpenAI, Spring Boot, Apache eCharts) Tj ET
+BT /F2 10.0 Tf 54.0 701.4 Td (Fullstack Developer - CodeIgniter Platform \(Fintech Client\)) Tj ET
+BT /F1 9.0 Tf 54.0 685.9 Td (Sevendyne  |  Sep 2021 - May 2022  |  Kochi, India) Tj ET
+BT /F1 10.0 Tf 54.0 668.7 Td (- Built and maintained a PHP/CodeIgniter web platform for an e-commerce client, including backend logic) Tj ET
+BT /F1 10.0 Tf 72.0 655.2 Td (and front-end integration.) Tj ET
+BT /F1 9.0 Tf 54.0 638.7 Td (PHP, CodeIgniter) Tj ET
+BT /F2 10.0 Tf 54.0 618.6 Td (Fullstack Developer - Laravel Platform \(Logistics Client\)) Tj ET
+BT /F1 9.0 Tf 54.0 603.1 Td (Sevendyne  |  Sep 2019 - Apr 2021  |  Kochi, India) Tj ET
+BT /F1 10.0 Tf 54.0 585.9 Td (- Delivered a fullstack Laravel platform end to end for a logistics client, covering backend) Tj ET
+BT /F1 10.0 Tf 72.0 572.4 Td (architecture and application logic.) Tj ET
+BT /F1 9.0 Tf 54.0 555.9 Td (Laravel, PHP, MySQL) Tj ET
+BT /F2 10.0 Tf 54.0 535.8 Td (Research Developer - Code Review Platform \(Engineering Tools Client\)) Tj ET
+BT /F1 9.0 Tf 54.0 520.3 Td (Sevendyne  |  May 2018 - Sep 2019  |  Kochi, Remote) Tj ET
+BT /F1 10.0 Tf 54.0 503.1 Td (- Developed a C++/Qt based code review tool for an engineering tools client.) Tj ET
+BT /F1 9.0 Tf 54.0 486.6 Td (C++, Qt) Tj ET
+BT /F2 10.0 Tf 54.0 466.5 Td (Research Developer - Trading System API \(Fintech Client\)) Tj ET
+BT /F1 9.0 Tf 54.0 451.0 Td (Sevendyne  |  Mar 2016 - Sep 2018  |  Kottayam, Hybrid) Tj ET
+BT /F1 10.0 Tf 54.0 433.8 Td (- Built a C++/Qt trading system API handling real-time market data streams for a fintech startup) Tj ET
+BT /F1 10.0 Tf 72.0 420.3 Td (client, delivered directly while co-founding Sevendyne.) Tj ET
+BT /F1 9.0 Tf 54.0 403.8 Td (C++, Qt, Real-Time Systems) Tj ET
+BT /F2 10.0 Tf 54.0 383.7 Td (Independent Systems Architect) Tj ET
+BT /F1 9.0 Tf 54.0 368.2 Td (Self-Employed  |  Jan 2012 - Sep 2016  |  Kottayam, Hybrid) Tj ET
+BT /F1 10.0 Tf 54.0 351.0 Td (- Engineered a property administration platform \(Wise Owl Property Management\) using C++ and Webtoolkit) Tj ET
+BT /F1 10.0 Tf 72.0 337.5 Td (\(Wt\) to service dense tenancy pipelines \(2015-2016\).) Tj ET
+BT /F1 10.0 Tf 54.0 321.0 Td (- Built Montal, a 2D game project using C++/Qt covering game state architecture and dynamic UI scaling) Tj ET
+BT /F1 10.0 Tf 72.0 307.5 Td (components \(2012-2014\).) Tj ET
+BT /F1 9.0 Tf 54.0 291.0 Td (C++, Qt, Wt) Tj ET
+BT /F2 10.0 Tf 54.0 270.9 Td (Software Engineer - Automotive HMI & IVI) Tj ET
+BT /F1 9.0 Tf 54.0 255.4 Td (HCLTech  |  Feb 2014 - Feb 2015  |  Delhi, On-site) Tj ET
+BT /F1 10.0 Tf 54.0 238.2 Td (- Developed C++/Qt based HMI and IVI \(In-Vehicle Infotainment\) systems for automotive platforms.) Tj ET
+BT /F1 9.0 Tf 54.0 221.7 Td (C++, Qt, HMI, IVI, Automotive) Tj ET
+BT /F2 10.0 Tf 54.0 201.6 Td (Software Engineer) Tj ET
+BT /F1 9.0 Tf 54.0 186.1 Td (HexoSys Group  |  Sep 2009 - Sep 2011  |  Kuala Lumpur, On-site) Tj ET
+BT /F1 10.0 Tf 54.0 168.9 Td (- Engineered C++ Qt and VC++ based USB protocol testing applications. Managed complex device protocol) Tj ET
+BT /F1 10.0 Tf 72.0 155.4 Td (debugging \(TCP/UDP\) for hardware systems.) Tj ET
+BT /F1 9.0 Tf 54.0 138.9 Td (C++, Qt, VC++, Sockets, Embedded Hardware) Tj ET
+BT /F2 10.0 Tf 54.0 118.8 Td (Trainee Software Engineer) Tj ET
+BT /F1 9.0 Tf 54.0 103.3 Td (Integral & UCI Tech  |  Apr 2007 - Apr 2009  |  Kochi, On-site) Tj ET
+BT /F1 10.0 Tf 54.0 86.1 Td (- Began professional software career writing VC++ systems automation tools, custom CAD geometric format) Tj ET
+BT /F1 10.0 Tf 72.0 72.6 Td (parsers, and low-level USB peripheral modeling applications \(Pathmodeler\).) Tj ET
 endstream
 endobj
-7 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>endobj
-8 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>endobj
+7 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> >>endobj
+8 0 obj<< /Length 292 >>stream
+BT /F1 9.0 Tf 54.0 738.0 Td (VC++, CAD Parsers, Embedded Tools) Tj ET
+BT /F2 10.0 Tf 54.0 709.9 Td (EDUCATION) Tj ET
+BT /F2 10.0 Tf 54.0 690.4 Td (B.Tech in Computer Science & Engineering) Tj ET
+BT /F1 9.0 Tf 54.0 674.9 Td (TKM College of Engineering, Kerala University  |  2002 - 2006) Tj ET
+endstream
+endobj
+9 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>endobj
+10 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>endobj
 xref
-0 9
+0 11
 0000000000 65535 f 
 0000000009 00000 n 
 0000000056 00000 n 
-0000000117 00000 n 
-0000000251 00000 n 
-0000004079 00000 n 
-0000004213 00000 n 
-0000007329 00000 n 
-0000007397 00000 n 
-trailer<< /Size 9 /Root 1 0 R >>
+0000000123 00000 n 
+0000000258 00000 n 
+0000004190 00000 n 
+0000004325 00000 n 
+0000008224 00000 n 
+0000008359 00000 n 
+0000008700 00000 n 
+0000008768 00000 n 
+trailer<< /Size 11 /Root 1 0 R >>
 startxref
-7470
+8842
 %%EOF

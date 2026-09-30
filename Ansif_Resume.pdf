@@ -2,7 +2,7 @@
 1 0 obj<< /Type /Catalog /Pages 2 0 R >>endobj
 2 0 obj<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>endobj
 3 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> >>endobj
-4 0 obj<< /Length 3882 >>stream
+4 0 obj<< /Length 3854 >>stream
 BT /F2 18.0 Tf 54.0 738.0 Td (Ansif P. Ibrahimkutty) Tj ET
 BT /F1 11.0 Tf 54.0 709.7 Td (Software Developer & Systems Architect) Tj ET
 BT /F1 9.0 Tf 54.0 688.9 Td (linkedin.com/in/ansifpi  |  github.com/ansifi) Tj ET
@@ -10,7 +10,7 @@ BT /F2 10.0 Tf 54.0 658.7 Td (PROFESSIONAL PROFILE) Tj ET
 BT /F1 10.0 Tf 54.0 639.2 Td (Software developer and systems architect with ~20 years building production software across Ruby on) Tj ET
 BT /F1 10.0 Tf 54.0 625.7 Td (Rails, Redmine, C++/Qt, Python, Laravel, and full-stack web platforms. Co-founder of Sevendyne) Tj ET
 BT /F1 10.0 Tf 54.0 612.2 Td (Consultancy Services LLP \(2016\). Currently a Ruby on Rails / Redmine developer for a Belgium marine data) Tj ET
-BT /F1 10.0 Tf 54.0 598.7 Td (analytics client. Previously built Sevendyne's HR payroll and accounts platform.) Tj ET
+BT /F1 10.0 Tf 54.0 598.7 Td (company. Previously built Sevendyne's HR payroll and accounts platform.) Tj ET
 BT /F2 10.0 Tf 54.0 569.2 Td (TECHNICAL EXPERTISE) Tj ET
 BT /F1 10.0 Tf 54.0 549.7 Td (- Languages & Frameworks: Ruby on Rails, Redmine, Spree, C++/Qt, Python, Django, Flask, Laravel, PHP,) Tj ET
 BT /F1 10.0 Tf 72.0 536.2 Td (CodeIgniter, Node.js, Spring Boot, Next.js, Vue.js, Angular, React, VC++) Tj ET
@@ -26,10 +26,10 @@ BT /F1 9.0 Tf 54.0 376.7 Td (Sevendyne Consultancy Services LLP  |  Sep 2016 - P
 BT /F1 10.0 Tf 54.0 359.6 Td (- Co-founded Sevendyne as the vehicle for research and development work; the entity now also provides) Tj ET
 BT /F1 10.0 Tf 72.0 346.1 Td (client staffing and payroll services alongside project delivery.) Tj ET
 BT /F1 9.0 Tf 54.0 329.6 Td (Team Building, Operations Management, Project Delivery) Tj ET
-BT /F2 10.0 Tf 54.0 309.4 Td (Ruby on Rails / Redmine Developer - Belgium Marine Data Analytics Client) Tj ET
+BT /F2 10.0 Tf 54.0 309.4 Td (Ruby on Rails / Redmine Developer - Belgium marine data company) Tj ET
 BT /F1 9.0 Tf 54.0 293.9 Td (Sevendyne  |  late Sep 2026 - Present  |  Kochi, Hybrid) Tj ET
-BT /F1 10.0 Tf 54.0 276.8 Td (- Working in the Redmine codebase for a marine data analytics company in Belgium: plugin development,) Tj ET
-BT /F1 10.0 Tf 72.0 263.3 Td (issue and time workflows, code management, and related Rails / Redmine platform work.) Tj ET
+BT /F1 10.0 Tf 54.0 276.8 Td (- Working in the Redmine codebase for a marine data company in Belgium: plugin development, issue and) Tj ET
+BT /F1 10.0 Tf 72.0 263.3 Td (time workflows, code management, and related Rails / Redmine platform work.) Tj ET
 BT /F1 9.0 Tf 54.0 246.8 Td (Ruby on Rails, Redmine, plugins) Tj ET
 BT /F2 10.0 Tf 54.0 226.6 Td (Software Developer - Payroll & Accounts \(Sevendyne\)) Tj ET
 BT /F1 9.0 Tf 54.0 211.1 Td (Sevendyne  |  Jan 2025 - mid Sep 2026  |  Kochi, Hybrid) Tj ET
@@ -105,13 +105,13 @@ xref
 0000000056 00000 n 
 0000000123 00000 n 
 0000000258 00000 n 
-0000004190 00000 n 
-0000004325 00000 n 
-0000008224 00000 n 
-0000008359 00000 n 
-0000008700 00000 n 
-0000008768 00000 n 
+0000004162 00000 n 
+0000004297 00000 n 
+0000008196 00000 n 
+0000008331 00000 n 
+0000008672 00000 n 
+0000008740 00000 n 
 trailer<< /Size 11 /Root 1 0 R >>
 startxref
-8842
+8814
 %%EOF

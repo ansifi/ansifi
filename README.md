@@ -37,8 +37,8 @@ Kochi, Kerala, India · Hybrid · [sevendyne.com](https://www.sevendyne.com/)
 Co-founded Sevendyne as the vehicle for the research and development work; the entity now also provides client staffing and payroll services alongside project delivery.  
 *Team building · Operations management · Project delivery*
 
-**Ruby on Rails / Redmine Developer (Belgium Marine Data Analytics Client)** · late Sep 2026 – Present · Kochi, Hybrid  
-Working in the Redmine codebase for a marine data analytics company in Belgium — plugin development, issue and time workflows, code management, and related Rails / Redmine platform work.  
+**Ruby on Rails / Redmine Developer (Belgium marine data company)** · late Sep 2026 – Present · Kochi, Hybrid  
+Working in the Redmine codebase for a marine data company in Belgium — plugin development, issue and time workflows, code management, and related Rails / Redmine platform work.  
 *Ruby on Rails · Redmine · plugins*
 
 **Software Developer — Payroll & Accounts (Sevendyne)** · Jan 2025 – mid Sep 2026 · Kochi, Hybrid  

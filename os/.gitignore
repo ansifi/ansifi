@@ -1,0 +1,15 @@
+.env
+.env.*
+*.sqlite3
+*.log
+node_modules/
+.venv/
+.run/
+__pycache__/
+leads-board.json
+media/
+dashboard/tenants.json
+dashboard/operates.json
+leads/config/platform-clients.json
+leads/data/
+analysis/knowledge/

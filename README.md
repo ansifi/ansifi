@@ -37,6 +37,14 @@ Kochi, Kerala, India · Hybrid · [sevendyne.com](https://www.sevendyne.com/)
 Co-founded Sevendyne as the vehicle for the research and development work; the entity now also provides client staffing and payroll services alongside project delivery.  
 *Team building · Operations management · Project delivery*
 
+**Ruby on Rails / Redmine Developer (Belgium Marine Data Analytics Client)** · late Sep 2026 – Present · Kochi, Hybrid  
+Working in the Redmine codebase for a marine data analytics company in Belgium — plugin development, issue and time workflows, code management, and related Rails / Redmine platform work.  
+*Ruby on Rails · Redmine · plugins*
+
+**Software Developer — Payroll & Accounts (Sevendyne)** · Jan 2025 – mid Sep 2026 · Kochi, Hybrid  
+Designed and shipped Sevendyne’s internal HR payroll and accounts platform: client and staff records, invoices, consultant payouts, bank ledger, and India compliance (GST / PF / ESIC / TDS).  
+*Django · Next.js · SQLite · India payroll*
+
 **AI / Fullstack Developer (German Analytical Client)** · May 2022 – Sep 2024 · Kochi, Hybrid  
 Engineered a Ruby on Rails/Spree catalogue processor paired with Python + OpenAI automation for structured data extraction (CSR Informatics GmbH, Germany). Built multi-site performance dashboards on Spring Boot and Angular with Apache eCharts. Designed Python REST API frameworks for supply-chain “what-if” simulation models (Quantyf, UAE).  
 *Python · Ruby on Rails · Angular · OpenAI · Spring Boot*

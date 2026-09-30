@@ -37,10 +37,6 @@ Kochi, Kerala, India · Hybrid · [sevendyne.com](https://www.sevendyne.com/)
 Co-founded Sevendyne as the vehicle for the research and development work; the entity now also provides client staffing and payroll services alongside project delivery.  
 *Team building · Operations management · Project delivery*
 
-**Systems Developer (US Electronics Client)** · Sep 2024 – Dec 2024 · Kochi, Hybrid  
-Delivered a C++ systems engineering project, continuing hands-on low-level development alongside architecture work.  
-*C++*
-
 **AI / Fullstack Developer (German Analytical Client)** · May 2022 – Sep 2024 · Kochi, Hybrid  
 Engineered a Ruby on Rails/Spree catalogue processor paired with Python + OpenAI automation for structured data extraction (CSR Informatics GmbH, Germany). Built multi-site performance dashboards on Spring Boot and Angular with Apache eCharts. Designed Python REST API frameworks for supply-chain “what-if” simulation models (Quantyf, UAE).  
 *Python · Ruby on Rails · Angular · OpenAI · Spring Boot*

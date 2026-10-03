@@ -1,5 +1,6 @@
-# Profile repo (ansifi/ansifi) — keep minimal; site lives in parent repo
-/os/dashboard/
-/os/analysis/
-/os/leads/
-/os/automate/
+# Profile repo (ansifi/ansifi) — hub lives in workspace/; skip secrets and bulky trees
+/workspace/leads/
+/workspace/automate/
+/finance/Savings-Tax/statements/
+/finance/Savings-Tax/accounts/books.json
+AnsifLinks.docx

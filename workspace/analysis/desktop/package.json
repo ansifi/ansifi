@@ -1,0 +1,14 @@
+{
+  "name": "coding-agent-desktop",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Coding Agent desktop shell for Ubuntu",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "postinstall": "node -e \"console.log('Electron ready')\""
+  },
+  "devDependencies": {
+    "electron": "^28.3.3"
+  }
+}

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Ansif Workspace
+GenericName=Workspace
+Comment=Ansif hub at http://127.0.0.1:4040/
+Exec=/bin/bash /home/ansif/works/00_Ansif/profile/portfolio/electron/launch.sh
+Path=/home/ansif/works/00_Ansif/profile/portfolio/electron
+TryExec=/home/ansif/works/00_Ansif/profile/portfolio/electron/node_modules/electron/dist/electron
+Icon=ansif-workspace
+Terminal=false
+DBusActivatable=false
+Categories=Development;
+StartupNotify=true
+StartupWMClass=Ansif Workspace
+Keywords=Ansif;Hub;Workspace;

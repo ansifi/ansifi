@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+
+cd "$ROOT"
+
+python3 -m venv .venv
+# shellcheck disable=SC1091
+. ".venv/bin/activate"
+python -m pip install --upgrade pip
+pip install -r backend/requirements.txt
+
+npm install --prefix frontend
+npm install --prefix desktop
+
+echo
+echo "Install complete."
+echo "Browser mode: ./scripts/dev-start"
+echo "Desktop mode: ./scripts/desktop-start"

@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+
+cd "$ROOT"
+
+if [ ! -d ".venv" ]; then
+  echo "Missing Python virtualenv. Run: ./scripts/install"
+  exit 1
+fi
+
+if [ ! -d "frontend/dist" ]; then
+  echo "Building frontend..."
+  npm run build --prefix frontend
+fi
+
+if [ ! -d "desktop/node_modules/electron" ]; then
+  echo "Installing desktop dependencies..."
+  npm install --prefix desktop
+fi
+
+export CODING_AGENT_BACKEND_PORT="${CODING_AGENT_BACKEND_PORT:-8006}"
+export CODING_AGENT_UI_PORT="${CODING_AGENT_UI_PORT:-5176}"
+export CODING_AGENT_API_BASE="http://127.0.0.1:${CODING_AGENT_BACKEND_PORT}"
+
+exec npm start --prefix desktop

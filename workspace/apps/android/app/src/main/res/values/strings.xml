@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Ansif Workspace</string>
-    <string name="default_hub_url">http://ansif-workspace.local:4040/</string>
-</resources>

@@ -1,6 +1,5 @@
-# Profile repo (ansifi/ansifi) — hub lives in workspace/; skip secrets and bulky trees
-/workspace/leads/
-/workspace/automate/
+# Profile repo (ansifi/ansifi) — keep the public shop window; hub is _common/aesapp
+/workspace
 /finance/Savings-Tax/statements/
 /finance/Savings-Tax/accounts/books.json
 AnsifLinks.docx

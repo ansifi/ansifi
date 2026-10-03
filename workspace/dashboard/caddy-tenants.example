@@ -1,0 +1,21 @@
+# Hub hostnames. Apex empever.com / www stay on GitHub Pages.
+#
+# DNS (A → 167.233.65.24), then Caddy TLS:
+#   app.empever.com
+#   dummy.empever.com  (underscore host dummy_client.empever.com cannot get a cert)
+#   app.sevendyne.com  (remove the Google CNAME first)
+#
+# Do not point empever.com or www.empever.com here.
+# Nested clients stay paths: app.sevendyne.com/csr/
+
+http://167.233.65.24 {
+	reverse_proxy 127.0.0.1:4040
+}
+
+app.empever.com, dummy.empever.com {
+	reverse_proxy 127.0.0.1:4040
+}
+
+app.sevendyne.com {
+	reverse_proxy 127.0.0.1:4040
+}

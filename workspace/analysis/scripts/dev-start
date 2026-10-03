@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+BACKEND_PORT="${BACKEND_PORT:-8006}"
+FRONTEND_PORT="${FRONTEND_PORT:-5176}"
+export EMPEVER_GATEWAY_PORT="${EMPEVER_GATEWAY_PORT:-4040}"
+export VITE_BASE_PATH="${VITE_BASE_PATH:-/apps/coding/}"
+
+cd "$ROOT"
+
+if [ -x "$ROOT/.venv/bin/python" ]; then
+  PY="$ROOT/.venv/bin/python"
+elif command -v python3 >/dev/null 2>&1; then
+  PY="python3"
+else
+  echo "coding-agent: need $ROOT/.venv/bin/python or python3 on PATH" >&2
+  exit 1
+fi
+
+echo "Starting backend on http://127.0.0.1:${BACKEND_PORT} ($PY)"
+"$PY" -m uvicorn backend.app:app --host 127.0.0.1 --port "$BACKEND_PORT" &
+BACKEND_PID=$!
+
+echo "Starting frontend on http://127.0.0.1:${FRONTEND_PORT}"
+cd "$ROOT/frontend"
+npm run dev &
+FRONTEND_PID=$!
+
+cleanup() {
+  kill "$BACKEND_PID" "$FRONTEND_PID" 2>/dev/null || true
+}
+
+trap cleanup EXIT INT TERM
+wait

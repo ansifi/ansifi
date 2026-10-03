@@ -1,0 +1,33 @@
+.desk-page { max-width: 46rem; margin: 0 auto; padding: 0.85rem 1.4rem 2.5rem; }
+.desk-page h1 {
+  font-size: 0.92rem;
+  font-weight: 650;
+  color: var(--muted);
+  margin: 0 0 0.35rem;
+}
+.desk-page .lede, .desk-page .summary { color: var(--muted); }
+.desk-page .summary { font-size: 0.92rem; }
+.desk-page ul { list-style: none; margin: 0.35rem 0 0; padding: 0; }
+.desk-page li { margin: 0.15rem 0; font-size: 0.92rem; }
+.desk-page .dir { color: var(--accent); font-weight: 650; }
+.desk-page .file { color: var(--fg); }
+.desk-page .block { margin: 1.1rem 0; padding: 0.9rem 1rem; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; }
+.desk-page .block h2 { margin: 0 0 0.35rem; font-size: 1rem; }
+.desk-page .dash-row { margin: 0.55rem 0 0.85rem; display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.desk-page .open-dash {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: #0a0e14;
+  color: var(--accent);
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 650;
+  padding: 0.35rem 0.65rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.desk-page .tree { list-style: none; margin: 0.45rem 0 0; padding: 0; }
+.desk-page .tree ul { margin: 0.15rem 0 0; padding-left: 0.9rem; border-left: 1px solid var(--line); }
+.desk-page .tree summary { cursor: pointer; color: var(--accent); font-weight: 650; list-style: none; }
+.desk-page .tree summary::-webkit-details-marker { display: none; }
+

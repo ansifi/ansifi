@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Operates overview</title>
+  <link rel="stylesheet" href="/dashboard.css?v=20260923f">
+  <style>
+    body { min-height: 100vh; }
+    .overview { padding: 1.25rem 1.4rem 2rem; max-width: 72rem; margin: 0 auto; }
+    .bars { display: flex; align-items: flex-end; gap: 0.55rem; height: 8rem; margin: 0.75rem 0 0.25rem; }
+    .bar {
+      flex: 1; min-width: 1.4rem; background: rgba(61, 214, 199, 0.35);
+      border-radius: 6px 6px 0 0; position: relative;
+    }
+    .bar span {
+      position: absolute; top: -1.2rem; left: 50%; transform: translateX(-50%);
+      font-size: 0.7rem; color: #8b9aaf; white-space: nowrap;
+    }
+    .bar em {
+      position: absolute; bottom: -1.35rem; left: 50%; transform: translateX(-50%);
+      font-style: normal; font-size: 0.68rem; color: #8b9aaf;
+    }
+    .bars.rev { height: 9.5rem; margin-bottom: 1.4rem; }
+    .bar.up { background: rgba(61, 214, 160, 0.55); }
+    .bar.down { background: rgba(224, 122, 122, 0.55); }
+    .bar.flat { background: rgba(139, 154, 175, 0.4); }
+    .trend {
+      display: inline-block;
+      margin: 0 0 0.35rem;
+      padding: 0.2rem 0.55rem;
+      border-radius: 999px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+    .trend.up { color: #0c1118; background: #3dd6a0; }
+    .trend.down { color: #0c1118; background: #e07a7a; }
+    .trend.flat { color: #e8edf4; background: #243044; }
+    .rev-now { margin: 0 0 0.4rem; font-size: 1.6rem; font-weight: 750; }
+    .accounts { width: 100%; border-collapse: collapse; margin-top: 0.4rem; font-size: 0.85rem; }
+    .accounts th, .accounts td { text-align: left; padding: 0.4rem 0.35rem; border-bottom: 1px solid #243044; }
+    .accounts th { color: #8b9aaf; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; }
+  </style>
+</head>
+<body>
+  <main class="overview">
+    <p class="digest-lede">Platform Operates — month-on-month change for this firm (percent, not rupees). Invoice PDFs, payouts, and payroll stay with that firm’s own admin.</p>
+    <h1 id="title">Admin client</h1>
+    <p class="digest-lede" id="lede"></p>
+    <section class="digest-pane" style="margin-top:1rem;">
+      <h3>Revenue</h3>
+      <div id="rev-head"></div>
+      <div class="bars rev" id="rev-bars"></div>
+    </section>
+    <section class="digest-pane" id="accounts-pane" hidden>
+      <h3>Client accounts</h3>
+      <p class="digest-lede">How each nested desk billed this month versus last. Super admin sees totals only.</p>
+      <div id="accounts"></div>
+    </section>
+    <section class="digest-pane" style="margin-top:1rem;">
+      <h3>Nested desks</h3>
+      <div class="bars" id="bars"></div>
+      <div id="nested"></div>
+    </section>
+    <section class="digest-pane" style="margin-top:1rem;">
+      <h3>Activity on this firm</h3>
+      <div id="activity"></div>
+    </section>
+  </main>
+  <script src="/operates/overview.js?v=20260923h"></script>
+</body>
+</html>

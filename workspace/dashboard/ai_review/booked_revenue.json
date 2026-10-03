@@ -1,0 +1,8 @@
+{
+  "sevendyne": [
+    { "month": "2026-09", "amount_inr": 220000 }
+  ],
+  "dummy_client": [
+    { "month": "2026-09", "amount_inr": 0 }
+  ]
+}

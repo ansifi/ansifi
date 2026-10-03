@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Analysis — Ansif Workspace</title>
+  <link rel="stylesheet" href="/app.css">
+</head>
+<body>
+  <header class="bar">
+    <div class="brand"><span class="mark">A</span><strong>Analysis</strong></div>
+    <p class="lede">Analyse a brand, service, or solution → notes and a course → post (offline copy, later online).</p>
+  </header>
+
+  <nav class="steps" aria-label="Analysis flow">
+    <button type="button" class="step is-on" data-step="1">1 Analyse</button>
+    <button type="button" class="step" data-step="2">2 Materials</button>
+    <button type="button" class="step" data-step="3">3 Post</button>
+    <button type="button" class="step" data-step="stories">Blog stories</button>
+  </nav>
+
+  <main>
+    <section id="step-1" class="panel">
+      <h1>Analyse</h1>
+      <p>The coding agent reads the folder (or your description) and writes teaching notes plus a short programme.</p>
+      <form id="analyze-form">
+        <label>Kind
+          <select name="kind">
+            <option value="brand">Brand</option>
+            <option value="services">Services</option>
+            <option value="solutions">Solutions</option>
+            <option value="project" selected>Project / codebase</option>
+          </select>
+        </label>
+        <label>Title
+          <input name="title" placeholder="e.g. Redmine time export" required>
+        </label>
+        <label>Folder on this machine
+          <input name="path" placeholder="/home/ansif/works/01_Build/jcatrysse_ror">
+        </label>
+        <label>What to teach
+          <textarea name="description" rows="5" placeholder="Pain, who it is for, what the software does."></textarea>
+        </label>
+        <button type="submit" id="analyze-btn">Create notes + course</button>
+      </form>
+      <p class="status" id="analyze-status" hidden></p>
+    </section>
+
+    <section id="step-2" class="panel" hidden>
+      <h1>Materials</h1>
+      <p id="saved-paths" class="muted"></p>
+      <div class="split">
+        <label>Notes
+          <textarea id="notes" rows="18"></textarea>
+        </label>
+        <label>Course
+          <textarea id="course" rows="18"></textarea>
+        </label>
+      </div>
+      <button type="button" id="to-post">Use this for a post</button>
+    </section>
+
+    <section id="step-3" class="panel" hidden>
+      <h1>Post</h1>
+      <p>Offline first: copy formatted text and paste into the tab that opens. Online posting comes later.</p>
+      <label>Which piece
+        <select id="post-source">
+          <option value="notes">Notes</option>
+          <option value="course" selected>Course / how-to</option>
+        </select>
+      </label>
+      <div class="platforms" id="platforms"></div>
+      <p class="status" id="post-status" hidden></p>
+    </section>
+
+    <section id="step-stories" class="panel" hidden>
+      <h1>Blog stories</h1>
+      <p>Drafts from the public site and the Analysis desk. Views come from connected platforms. Nothing publishes until you approve on Home.</p>
+      <div id="story-list"></div>
+      <article class="story-detail" id="story-detail" hidden>
+        <h2 id="story-title"></h2>
+        <p class="muted" id="story-meta"></p>
+        <pre id="story-body"></pre>
+      </article>
+    </section>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>

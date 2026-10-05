@@ -2,4 +2,8 @@
 /workspace
 /finance/Savings-Tax/statements/
 /finance/Savings-Tax/accounts/books.json
+/finance/Savings-Tax/accounts/Ansif/*
+!/finance/Savings-Tax/accounts/Ansif/Readme.md
+/finance/Savings-Tax/accounts/Sevendyne/*
+!/finance/Savings-Tax/accounts/Sevendyne/Readme.md
 AnsifLinks.docx

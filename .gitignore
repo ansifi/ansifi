@@ -1,9 +1,14 @@
-# Profile repo (ansifi/ansifi) — keep the public shop window; hub is _common/aesapp
+# Profile repo (ansifi/ansifi) — keep the public shop window; hub is 00_Ansif/aesapp
 /workspace
-/finance/Savings-Tax/statements/
-/finance/Savings-Tax/accounts/books.json
-/finance/Savings-Tax/accounts/Ansif/*
-!/finance/Savings-Tax/accounts/Ansif/Readme.md
-/finance/Savings-Tax/accounts/Sevendyne/*
-!/finance/Savings-Tax/accounts/Sevendyne/Readme.md
+/finance/
+/degrees/
+/desk/
+/rules/
+/hooks/
+/hooks.json
+/archive/
+/aes-group/
+/aesapp/
+/git/
+/.github/
 AnsifLinks.docx

@@ -7,7 +7,7 @@ Cursor: `.cursor` → `00_Ansif`. Git: `.git` → `00_Ansif/git`.
 | Path / Folder | Job |
 |---------------|-----|
 | **`profile/`** | Public shop window, portfolio ([ansifi.com](https://ansifi.com) / GitHub Pages), résumé, and skill demos (`_referrals/`) |
-| **`ansapp/`** | The AI application (ANS-APP) & shared operator hub for all desks (`01_Content`, `02_Network`, `03_Project`, `04_Revenue`) (GitHub `ansifi/ansapp`) |
+| **`ansapp/`** | The AI application (ANS-APP) & shared operator hub for all desks (`01_Content`, `02_Network`, `03_Offshore`, `04_Revenue`) (GitHub `ansifi/ansapp`) |
 | **`degrees/`** | Educational certificates & transcripts (`SSLC/`, `HSE/`, `BTECH/`) |
 | **`finance/`** | Personal books, employment salary credits, bank statements, interest, and ITR / TDS working papers |
 | **`aes-group/`** | AES Group holding plan, equity shares from founded businesses, and the 7 fields plan |
@@ -24,7 +24,7 @@ Cursor: `.cursor` → `00_Ansif`. Git: `.git` → `00_Ansif/git`.
 1. **Initiation & Profile (`00_Ansif`)**: Ansif builds his profile mapped under [ansifi.com](https://ansifi.com) / GitHub to find tech projects, and engineers `ansapp/` (ANS-APP) as the AI operator to automate every desk.
 2. **Content & Advertising (`01_Content`)**: Create content from technical lessons, publishing blog notes and videos to social media (LinkedIn, DEV, Medium) to advertise capability.
 3. **Network & Outreach (`02_Network`)**: Connect with tech personnel and potential clients who engage with the content.
-4. **Contracts & Projects (`03_Project`)**: Start paid contracts and client tech projects (currently `geoxyz/`).
+4. **Contracts & Projects (`03_Offshore`)**: Start paid contracts and client tech projects (currently `geoxyz/`).
 5. **Operating Businesses & Revenue (`04_Revenue`)**: Run founded businesses generating revenue:
    - **`Sevendyne/`** — Technical talent consultancy since 2016 (staffing, remote client delivery, referral payrolls / HR desks)
    - **`Empever/`** — Training center + course library (`course_library/learns/`) + SaaS tools

@@ -1,26 +1,11 @@
 # Ansif P. Ibrahimkutty
 
 **Software developer** · **20+ years** building production software (2006 – present)  
-Native **Kottayam**, Kerala · lives in **Aluva, Kochi**, near Cochin International Airport · remote
+Native **Kottayam**, Kerala · 
 
 [Portfolio](https://ansifi.github.io/) · [LinkedIn](https://www.linkedin.com/in/ansifpi/) · [GitHub](https://github.com/ansifi) · [Medium](https://medium.com/@ansifpi) · [DEV](https://dev.to/ansifi)
 
 Hands-on delivery across **full-stack web & Rails**, **mobile (Android/NDK)**, **embedded C++/Qt**, **data pipelines**, and **business platforms**. Co-founder of **[Sevendyne](https://www.sevendyne.com/)** (technical talent consultancy) since **2016** — startup and operator experience alongside hands-on engineering for remote teams across the UK, Germany, Malaysia, Singapore, UAE, and the US.
-
----
-
-## Technical Showcase & Engineering Tracks
-
-### Track 1: Full-Stack Web, Rails & Data Platforms
-- **[web-redmine-time-export](https://github.com/ansifi/web-redmine-time-export)** — Redmine REST API spent-time report generator & export tool (Ruby on Rails, REST API, JavaScript)
-- **[web-analytics-echarts-dashboard](https://github.com/ansifi/web-analytics-echarts-dashboard)** — Enterprise analytics dashboard with Apache ECharts dynamic time-series charts (Angular, TypeScript, ECharts)
-- **[email_automation_tool](https://github.com/ansifi/email_automation_tool)** — Governed web crawling, lead pipeline & automated outreach engine (Python, Scrapy, Celery)
-
-### Track 2: Mobile & Real-Time Applications
-- **[android-qt-vlc-chat](https://github.com/ansifi/android-qt-vlc-chat)** — Android multimedia & real-time messaging chat client (Android NDK, Qt Quick, QML, LibVLC)
-
-### Track 3: Embedded Systems, C++ & Qt/QML
-- **[qt-autolight-controller](https://github.com/ansifi/qt-autolight-controller)** — Automotive safety-critical headlamp dimming controller demo (C++14, Qt/QML, V-Model, Google Test, cppcheck)
 
 ---
 

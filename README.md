@@ -3,27 +3,40 @@
 **Software developer** · **20+ years** building production software (2006 – present)  
 Native **Kottayam**, Kerala · lives in **Aluva, Kochi**, near Cochin International Airport · remote
 
-[Portfolio](https://ansifi.github.io/) · [Résumé (PDF)](Ansif_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/ansifpi/) · [GitHub](https://github.com/ansifi) · [Medium](https://medium.com/@ansifpi) · [DEV](https://dev.to/ansifi)
+[Portfolio](https://ansifi.github.io/) · [LinkedIn](https://www.linkedin.com/in/ansifpi/) · [GitHub](https://github.com/ansifi) · [Medium](https://medium.com/@ansifpi) · [DEV](https://dev.to/ansifi)
 
-Hands-on delivery across **embedded C++/Qt**, **full-stack web**, **mobile**, **payments**, **AI data pipelines**, and **India payroll / HRMS**. Since **2016** I co-founded **[Sevendyne](https://www.sevendyne.com/)** (technical talent consultancy) and still ship as developer and payroll consultant for remote teams in the UK, Germany, Malaysia, Singapore, UAE, and the US.
+Hands-on delivery across **full-stack web & Rails**, **mobile (Android/NDK)**, **embedded C++/Qt**, **data pipelines**, and **business platforms**. Co-founder of **[Sevendyne](https://www.sevendyne.com/)** (technical talent consultancy) since **2016** — startup and operator experience alongside hands-on engineering for remote teams across the UK, Germany, Malaysia, Singapore, UAE, and the US.
+
+---
+
+## Technical Showcase & Engineering Tracks
+
+### Track 1: Full-Stack Web, Rails & Data Platforms
+- **[web-redmine-time-export](https://github.com/ansifi/web-redmine-time-export)** — Redmine REST API spent-time report generator & export tool (Ruby on Rails, REST API, JavaScript)
+- **[web-analytics-echarts-dashboard](https://github.com/ansifi/web-analytics-echarts-dashboard)** — Enterprise analytics dashboard with Apache ECharts dynamic time-series charts (Angular, TypeScript, ECharts)
+- **[email_automation_tool](https://github.com/ansifi/email_automation_tool)** — Governed web crawling, lead pipeline & automated outreach engine (Python, Scrapy, Celery)
+
+### Track 2: Mobile & Real-Time Applications
+- **[android-qt-vlc-chat](https://github.com/ansifi/android-qt-vlc-chat)** — Android multimedia & real-time messaging chat client (Android NDK, Qt Quick, QML, LibVLC)
+
+### Track 3: Embedded Systems, C++ & Qt/QML
+- **[qt-autolight-controller](https://github.com/ansifi/qt-autolight-controller)** — Automotive safety-critical headlamp dimming controller demo (C++14, Qt/QML, V-Model, Google Test, cppcheck)
 
 ---
 
 ## Skills
 
-**Languages & systems:** C · C++ · VC++ · C# / .NET · Python · PHP · Ruby · JavaScript / TypeScript · Java · Solidity · SQL
+**Languages & systems:** C · C++ · VC++ · C# / .NET · Python · PHP · Ruby · JavaScript / TypeScript · Java · SQL
 
-**UI & apps:** Qt · QML · Wt · Android · React · Angular · Vue.js · Next.js · Apache eCharts
+**UI & apps:** Qt · QML · Android (SDK/NDK) · React · Angular · Vue.js · Next.js · Apache ECharts · Wt
 
-**Web & APIs:** Ruby on Rails · Spree Commerce · Redmine · Django · Node.js · Express · Spring Boot · Laravel · CodeIgniter · REST APIs
+**Web & APIs:** Ruby on Rails · Redmine · Spree Commerce · Django · Node.js · Express · Spring Boot · Laravel · CodeIgniter · REST APIs
 
 **Data & infra:** PostgreSQL · MySQL · SQLite · SQL Server · Redis / queues · Docker · nginx · GCP Cloud Run
 
-**Embedded & industrial:** embedded Linux · Wayland · IVI/HMI · USB / protocol tooling · PLC/SCADA coordination
+**Embedded & industrial:** embedded Linux · Wayland · IVI/HMI · USB / protocol tooling · Google Test · V-Model
 
-**AI & integrations:** OpenAI APIs · Zoho Recruit APIs · Web3.js · Truffle · Ethereum
-
-**Operations:** code review · India payroll (PF / ESIC / TDS / GST) · multi-tenant SaaS
+**AI & integrations:** OpenAI APIs · Scrapy · Celery · Web3.js
 
 ---
 
@@ -34,61 +47,42 @@ Hands-on delivery across **embedded C++/Qt**, **full-stack web**, **mobile**, **
 Kochi, Kerala, India · Hybrid · [sevendyne.com](https://www.sevendyne.com/)
 
 **Co-Founder** · Sep 2016 – Present · Kochi, Hybrid  
-Co-founded Sevendyne as the vehicle for the research and development work; the entity now also provides client staffing and payroll services alongside project delivery.  
+Co-founded Sevendyne as the vehicle for research, client staffing, remote engineering delivery, and managed technical desks.  
 *Team building · Operations management · Project delivery*
 
-**Ruby on Rails / Redmine Developer (Belgium marine data company)** · late Sep 2026 – Present · Kochi, Hybrid  
-Working in the Redmine codebase for a marine data company in Belgium — plugin development, issue and time workflows, code management, and related Rails / Redmine platform work.  
-*Ruby on Rails · Redmine · plugins*
-
-**Software Developer — Payroll & Accounts (Sevendyne)** · Jan 2025 – mid Sep 2026 · Kochi, Hybrid  
-Designed and shipped Sevendyne’s internal HR payroll and accounts platform: client and staff records, invoices, consultant payouts, bank ledger, and India compliance (GST / PF / ESIC / TDS).  
-*Django · Next.js · SQLite · India payroll*
+**Ruby on Rails / Redmine Platform Engineer** · late Sep 2026 – Present · Remote  
+Core Redmine platform engineering for a marine data company in Belgium — custom plugin development, issue/time workflows, code management, and Rails upgrades.  
+*Ruby on Rails · Redmine · Plugins*
 
 **AI / Fullstack Developer (German Analytical Client)** · May 2022 – Sep 2024 · Kochi, Hybrid  
-Engineered a Ruby on Rails/Spree catalogue processor paired with Python + OpenAI automation for structured data extraction (CSR Informatics GmbH, Germany). Built multi-site performance dashboards on Spring Boot and Angular with Apache eCharts. Designed Python REST API frameworks for supply-chain “what-if” simulation models (Quantyf, UAE).  
+Engineered a Ruby on Rails/Spree catalogue processor paired with Python + OpenAI automation for structured data extraction (CSR Informatics GmbH, Germany). Built multi-site performance dashboards on Spring Boot and Angular with Apache ECharts. Designed Python REST API frameworks for supply-chain simulation models (Quantyf, UAE).  
 *Python · Ruby on Rails · Angular · OpenAI · Spring Boot*
 
-**Fullstack Developer — CodeIgniter Platform (Fintech Client)** · Sep 2021 – May 2022 · Kochi  
-Built and maintained a PHP/CodeIgniter web platform for an e-commerce client, including backend logic and front-end integration.  
-*PHP · CodeIgniter*
-
-**Fullstack Developer — Laravel Platform (Logistics Client)** · Sep 2019 – Apr 2021 · Kochi  
-Delivered a fullstack Laravel platform end to end for a logistics client, covering backend architecture and application logic.  
+**Fullstack Developer — Logistics Web Platform** · Sep 2019 – Apr 2021 · Kochi  
+Delivered a fullstack Laravel platform end to end for a Malaysia–Singapore logistics client, covering cross-border tracking, partner APIs, and operational workflows.  
 *Laravel · PHP · MySQL*
 
-**Research Developer — Code Review Platform (Engineering Tools Client)** · May 2018 – Sep 2019 · Kochi, Remote  
-Developed a C++/Qt based code review tool for an engineering tools client.  
-*C++ · Qt*
-
-**Research Developer — Trading System API (Fintech Client)** · Mar 2016 – Sep 2018 · Kottayam, Hybrid  
-Built a C++/Qt trading system API handling real-time market data streams for a fintech startup client, delivered directly while co-founding Sevendyne.  
+**Research Developer — Trading System API (Fintech Client)** · Mar 2016 – Sep 2018 · Hybrid  
+Built a C++/Qt trading system API handling real-time market data streams for a fintech startup client.  
 *C++ · Qt · Real-time systems*
 
-Public tooling: [Redmine Time Export](https://github.com/ansifi/redmine-time-export) — export project spent time to CSV/XLSX, grouped by user (Redmine 6.1.x).
+### Freelance Software Consultant · Jan 2012 – Aug 2016 · India, remote
 
-### Freelance software developer · Jan 2012 – Aug 2016 · India, remote
-
-- **Wise Owl** (2015–2016) — C++/Wt property admin (tenants, brokers, listings)
-- **HCL Technologies** (2014–2015) — Qt/QML IVI for Panasonic and Cobham; defence communications HMI on Wayland Linux
+- **Wise Owl** (2015–2016) — C++/Wt property administration workflows
+- **HCL Technologies** (2014–2015) — Qt/QML IVI for Panasonic & Cobham; defence communications HMI on Wayland Linux
 - **Montal** (2013–2014) — Qt/QML 2D game UI
-- **Quality Education Holdings, Saudi Arabia** (2012) — .NET/C# fingerprint attendance apps
+- **Quality Education Holdings, Saudi Arabia** (2012) — .NET/C# fingerprint attendance systems
 
 ### Earlier employment
 
 - **HexoSys SDN BHD, Kuala Lumpur** (2009–2011) — Qt/VC++ USB protocol tester; TCP/UDP validation on embedded hardware
-- **Pramura Technologies** (2009) — C++ product work
-- **UCI / IntegralSoft** (2006–2008) — VC++ USB modelling, trading utilities, CAD tools
+- **Pramura Technologies** (2009) — C++ product engineering
+- **UCI / IntegralSoft** (2006–2008) — VC++ USB modeling, trading utilities, CAD tools
 
 ---
 
-## Location
-Keralite. **Native of Kottayam.** Currently live in **Aluva, Kochi (Cochin)**, close to **Cochin International Airport**
+## Location & Education
 
-## Education
+Native of **Kottayam, Kerala**. Currently based in **Aluva, Kochi (Cochin)**, close to **Cochin International Airport**.
 
-Kerala board schooling, then engineering:
-
-- **SSLC** (Class 10) — Kerala  
-- **Higher Secondary (HSE / Plus Two)** — Kerala  
-- **B.E. Computer Science** — TKM College of Engineering, Kollam · Kerala University · 2002 – 2006
+- **B.Tech in Information Technology** — Mahatma Gandhi University, Kerala (2001–2005)

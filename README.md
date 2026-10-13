@@ -15,5 +15,3 @@ Multi-tenant HR & ops platform · Redmine/Rails (Belgium marine data) · CSR Inf
 ---
 
 💼 [LinkedIn](https://www.linkedin.com/in/ansifpi/) · 💻 [GitHub](https://github.com/ansifi) · ✍️ [Medium](https://medium.com/@ansifpi)
-
-Portfolio: **[ansifi.github.io](https://ansifi.github.io/)** — edit site in this repo; run `./scripts/sync-github-profile.sh` to update this profile README.

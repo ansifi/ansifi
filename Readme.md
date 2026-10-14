@@ -26,16 +26,16 @@ Cursor: `.cursor` → `00_Ansif`. Git: `.git` → `00_Ansif/git`.
 3. **Network & Outreach (`02_Network`)**: Connect with tech personnel and potential clients who engage with the content.
 4. **Contracts & Projects (`03_Offshore`)**: Start paid contracts and client tech projects (currently `geoxyz/`).
 5. **Operating Businesses & Revenue (`04_Scaling`)**: Run founded businesses generating revenue:
-   - **`Sevendyne/`** — Technical talent consultancy since 2016 (staffing, remote client delivery, referral payrolls / HR desks)
-   - **`Empever/`** — Training center + course library (`course_library/learns/`) + SaaS tools
-   - **`Axxxx/`** — Retail trading center & product ideas
-6. **Future Retirement & AES Group (`00_Ansif/aes-group`)**: Retire from operations, taking profit shares from the 3 businesses to build the **AES Group across 7 fields**:
+   - **`Sevendyne/`** — Technical talent consultancy since 2016 (helps clients hire resources; staffing, remote client delivery, referral payrolls / HR desks)
+   - **`Empever/`** — Training center + course library (`course_library/learns/`) + SaaS skills platform (helps staff upgrade skills)
+   - **`Axxxx/`** — SaaS marketplace platform (helps employers sell projects and candidates build startups)
+6. **Future Retirement & AES Group (`00_Ansif/aes-group`)**: Retire from operations, taking profit shares from the 3 businesses (Sevendyne 10%, Empever 20%, Axxxx 40% = ~₹7cr at ₹10cr valuation each) to build the **AES Group across 7 fields**:
    1. AES Office
    2. Ansif Home
    3. Prayer House
    4. Islamic Maktab
    5. Park Ground
    6. Farm Poultry
-   7. Godown Warehouse
+   7. Research Center
 
 Start here: [`desk/CONTINUE.md`](desk/CONTINUE.md). How we work: [`desk/HOW-WE-WORK.md`](desk/HOW-WE-WORK.md). Full loop: [`../Readme.md`](../Readme.md). Phone clock: Drive root `00-DAILY.html` (from `desk/00-DAILY.html`). **`works-push`:** `bash /home/ansif/works/00_Ansif/desk/push-works.sh`.

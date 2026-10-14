@@ -1,117 +1,165 @@
 %PDF-1.4
 1 0 obj<< /Type /Catalog /Pages 2 0 R >>endobj
-2 0 obj<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>endobj
-3 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> >>endobj
-4 0 obj<< /Length 3854 >>stream
+2 0 obj<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R] /Count 4 >>endobj
+3 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> >>endobj
+4 0 obj<< /Length 3266 >>stream
 BT /F2 18.0 Tf 54.0 738.0 Td (Ansif P. Ibrahimkutty) Tj ET
-BT /F1 11.0 Tf 54.0 709.7 Td (Software Developer & Systems Architect) Tj ET
+BT /F1 11.0 Tf 54.0 709.7 Td (Software Developer) Tj ET
 BT /F1 9.0 Tf 54.0 688.9 Td (linkedin.com/in/ansifpi  |  github.com/ansifi) Tj ET
 BT /F2 10.0 Tf 54.0 658.7 Td (PROFESSIONAL PROFILE) Tj ET
-BT /F1 10.0 Tf 54.0 639.2 Td (Software developer and systems architect with ~20 years building production software across Ruby on) Tj ET
-BT /F1 10.0 Tf 54.0 625.7 Td (Rails, Redmine, C++/Qt, Python, Laravel, and full-stack web platforms. Co-founder of Sevendyne) Tj ET
-BT /F1 10.0 Tf 54.0 612.2 Td (Consultancy Services LLP \(2016\). Currently a Ruby on Rails / Redmine developer for a Belgium marine data) Tj ET
-BT /F1 10.0 Tf 54.0 598.7 Td (company. Previously built Sevendyne's HR payroll and accounts platform.) Tj ET
-BT /F2 10.0 Tf 54.0 569.2 Td (TECHNICAL EXPERTISE) Tj ET
-BT /F1 10.0 Tf 54.0 549.7 Td (- Languages & Frameworks: Ruby on Rails, Redmine, Spree, C++/Qt, Python, Django, Flask, Laravel, PHP,) Tj ET
-BT /F1 10.0 Tf 72.0 536.2 Td (CodeIgniter, Node.js, Spring Boot, Next.js, Vue.js, Angular, React, VC++) Tj ET
-BT /F1 10.0 Tf 54.0 518.7 Td (- Data & AI Systems: OpenAI API integration, automated scraping/ETL pipelines, PostgreSQL, MySQL, SQL) Tj ET
-BT /F1 10.0 Tf 72.0 505.2 Td (Server, SQLite) Tj ET
-BT /F1 10.0 Tf 54.0 487.7 Td (- Infrastructure & DevOps: GCP Cloud Run, Docker, Nginx, Cloud Build, Kaniko, Artifact Registry,) Tj ET
-BT /F1 10.0 Tf 72.0 474.2 Td (Embedded Linux, Sockets, IPC) Tj ET
-BT /F1 10.0 Tf 54.0 456.7 Td (- Domain Strengths: Redmine plugins, full-stack platform design, real-time/low-latency systems,) Tj ET
-BT /F1 10.0 Tf 72.0 443.2 Td (embedded automotive software, team building and operations) Tj ET
-BT /F2 10.0 Tf 54.0 413.7 Td (CORE EXPERIENCE & PROJECTS) Tj ET
-BT /F2 10.0 Tf 54.0 392.2 Td (Co-Founder) Tj ET
-BT /F1 9.0 Tf 54.0 376.7 Td (Sevendyne Consultancy Services LLP  |  Sep 2016 - Present  |  Kochi, Hybrid) Tj ET
-BT /F1 10.0 Tf 54.0 359.6 Td (- Co-founded Sevendyne as the vehicle for research and development work; the entity now also provides) Tj ET
-BT /F1 10.0 Tf 72.0 346.1 Td (client staffing and payroll services alongside project delivery.) Tj ET
-BT /F1 9.0 Tf 54.0 329.6 Td (Team Building, Operations Management, Project Delivery) Tj ET
-BT /F2 10.0 Tf 54.0 309.4 Td (Ruby on Rails / Redmine Developer - Belgium marine data company) Tj ET
-BT /F1 9.0 Tf 54.0 293.9 Td (Sevendyne  |  late Sep 2026 - Present  |  Kochi, Hybrid) Tj ET
-BT /F1 10.0 Tf 54.0 276.8 Td (- Working in the Redmine codebase for a marine data company in Belgium: plugin development, issue and) Tj ET
-BT /F1 10.0 Tf 72.0 263.3 Td (time workflows, code management, and related Rails / Redmine platform work.) Tj ET
-BT /F1 9.0 Tf 54.0 246.8 Td (Ruby on Rails, Redmine, plugins) Tj ET
-BT /F2 10.0 Tf 54.0 226.6 Td (Software Developer - Payroll & Accounts \(Sevendyne\)) Tj ET
-BT /F1 9.0 Tf 54.0 211.1 Td (Sevendyne  |  Jan 2025 - mid Sep 2026  |  Kochi, Hybrid) Tj ET
-BT /F1 10.0 Tf 54.0 194.0 Td (- Designed and shipped Sevendyne's internal HR payroll and accounts platform: client and staff records,) Tj ET
-BT /F1 10.0 Tf 72.0 180.5 Td (invoices, consultant payouts, bank ledger, and India compliance \(GST / PF / ESIC / TDS\).) Tj ET
-BT /F1 9.0 Tf 54.0 164.0 Td (Django, Next.js, SQLite, India payroll) Tj ET
-BT /F2 10.0 Tf 54.0 143.8 Td (AI / Fullstack Developer - German Analytical Client) Tj ET
-BT /F1 9.0 Tf 54.0 128.3 Td (Sevendyne  |  May 2022 - Sep 2024  |  Kochi, Hybrid) Tj ET
-BT /F1 10.0 Tf 54.0 111.2 Td (- Engineered a Ruby on Rails/Spree catalogue processor paired with Python + OpenAI automation for) Tj ET
-BT /F1 10.0 Tf 72.0 97.7 Td (structured data extraction \(CSR Informatics GmbH, Germany\).) Tj ET
-BT /F1 10.0 Tf 54.0 81.2 Td (- Built multi-site performance dashboards on Spring Boot and Angular with Apache eCharts.) Tj ET
+BT /F1 10.0 Tf 54.0 639.2 Td (Software developer with ~20 years building production software across Ruby on Rails, Redmine, C++/Qt,) Tj ET
+BT /F1 10.0 Tf 54.0 625.7 Td (Python, Laravel, Android, and full-stack web platforms. Remote delivery for international client) Tj ET
+BT /F1 10.0 Tf 54.0 612.2 Td (programmes.) Tj ET
+BT /F2 10.0 Tf 54.0 582.7 Td (TECHNICAL EXPERTISE) Tj ET
+BT /F1 10.0 Tf 54.0 563.2 Td (- Languages & Frameworks: Ruby on Rails, Redmine, Spree, C++/Qt, Python, Django, Flask, Laravel, PHP,) Tj ET
+BT /F1 10.0 Tf 72.0 549.7 Td (CodeIgniter, Node.js, Spring Boot, Next.js, Vue.js, Angular, React, VC++) Tj ET
+BT /F1 10.0 Tf 54.0 532.2 Td (- Data & AI Systems: OpenAI API integration, automated scraping/ETL pipelines, PostgreSQL, MySQL, SQL) Tj ET
+BT /F1 10.0 Tf 72.0 518.7 Td (Server, SQLite) Tj ET
+BT /F1 10.0 Tf 54.0 501.2 Td (- Infrastructure & DevOps: GCP Cloud Run, Docker, Nginx, Cloud Build, Kaniko, Artifact Registry,) Tj ET
+BT /F1 10.0 Tf 72.0 487.7 Td (Embedded Linux, Sockets, IPC) Tj ET
+BT /F1 10.0 Tf 54.0 470.2 Td (- Domain Strengths: Redmine plugins, full-stack platform design, real-time/low-latency systems,) Tj ET
+BT /F1 10.0 Tf 72.0 456.7 Td (embedded automotive software, Android mobile apps) Tj ET
+BT /F2 10.0 Tf 54.0 427.2 Td (SELECTED PROJECTS & TECHNICAL WORK) Tj ET
+BT /F2 10.0 Tf 54.0 405.7 Td (Multi-tenant HR & operations platform) Tj ET
+BT /F1 9.0 Tf 54.0 390.2 Td (Remote engineering organisation · confidential) Tj ET
+BT /F1 10.0 Tf 54.0 373.1 Td (- HRMS and payroll modules, job-portal APIs, learning and assessment services.) Tj ET
+BT /F1 10.0 Tf 54.0 356.6 Td (- Docker Compose, GCP Cloud Run, nginx routing.) Tj ET
+BT /F1 9.0 Tf 54.0 340.1 Td (Django, Next.js, Node.js, Docker, GCP Cloud Run) Tj ET
+BT /F2 10.0 Tf 54.0 321.9 Td (Redmine / Rails enterprise platform) Tj ET
+BT /F1 9.0 Tf 54.0 306.4 Td (Belgium marine data company) Tj ET
+BT /F1 10.0 Tf 54.0 289.3 Td (- Plugins, time/issue workflows, REST integrations, export tooling.) Tj ET
+BT /F1 9.0 Tf 54.0 272.8 Td (Ruby on Rails, Redmine, REST APIs) Tj ET
+BT /F2 10.0 Tf 54.0 254.6 Td (Zoho Recruit automation) Tj ET
+BT /F1 9.0 Tf 54.0 239.1 Td (CSR Informatics GmbH, Germany · remote) Tj ET
+BT /F1 10.0 Tf 54.0 222.0 Td (- Python + OpenAI import; SQL loaders; recruiter approval gates.) Tj ET
+BT /F1 9.0 Tf 54.0 205.5 Td (Python, OpenAI, Zoho REST, SQL Server) Tj ET
+BT /F2 10.0 Tf 54.0 187.3 Td (E-commerce AI catalogue pipeline) Tj ET
+BT /F1 9.0 Tf 54.0 171.8 Td (CSR Informatics GmbH, Germany · remote) Tj ET
+BT /F1 10.0 Tf 54.0 154.7 Td (- Rails/Spree; Python scrapers + OpenAI; ETL to SQL Server.) Tj ET
+BT /F1 9.0 Tf 54.0 138.2 Td (Ruby on Rails, Spree, Python, OpenAI) Tj ET
+BT /F2 10.0 Tf 54.0 120.0 Td (Restaurant analytics dashboards) Tj ET
+BT /F1 9.0 Tf 54.0 104.5 Td (CSR Informatics GmbH, Germany · remote) Tj ET
+BT /F1 10.0 Tf 54.0 87.4 Td (- Angular, Spring Boot, SQL aggregation, Apache eCharts KPIs.) Tj ET
+BT /F1 9.0 Tf 54.0 70.9 Td (Angular, Spring Boot, SQL, Apache ECharts) Tj ET
 endstream
 endobj
-5 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> >>endobj
-6 0 obj<< /Length 3849 >>stream
-BT /F1 10.0 Tf 54.0 738.0 Td (- Designed Python REST API frameworks for supply-chain what-if simulation models \(Quantyf, UAE\).) Tj ET
-BT /F1 9.0 Tf 54.0 721.5 Td (Python, Ruby on Rails, Spree, Angular, OpenAI, Spring Boot, Apache eCharts) Tj ET
-BT /F2 10.0 Tf 54.0 701.4 Td (Fullstack Developer - CodeIgniter Platform \(Fintech Client\)) Tj ET
-BT /F1 9.0 Tf 54.0 685.9 Td (Sevendyne  |  Sep 2021 - May 2022  |  Kochi, India) Tj ET
-BT /F1 10.0 Tf 54.0 668.7 Td (- Built and maintained a PHP/CodeIgniter web platform for an e-commerce client, including backend logic) Tj ET
-BT /F1 10.0 Tf 72.0 655.2 Td (and front-end integration.) Tj ET
-BT /F1 9.0 Tf 54.0 638.7 Td (PHP, CodeIgniter) Tj ET
-BT /F2 10.0 Tf 54.0 618.6 Td (Fullstack Developer - Laravel Platform \(Logistics Client\)) Tj ET
-BT /F1 9.0 Tf 54.0 603.1 Td (Sevendyne  |  Sep 2019 - Apr 2021  |  Kochi, India) Tj ET
-BT /F1 10.0 Tf 54.0 585.9 Td (- Delivered a fullstack Laravel platform end to end for a logistics client, covering backend) Tj ET
-BT /F1 10.0 Tf 72.0 572.4 Td (architecture and application logic.) Tj ET
-BT /F1 9.0 Tf 54.0 555.9 Td (Laravel, PHP, MySQL) Tj ET
-BT /F2 10.0 Tf 54.0 535.8 Td (Research Developer - Code Review Platform \(Engineering Tools Client\)) Tj ET
-BT /F1 9.0 Tf 54.0 520.3 Td (Sevendyne  |  May 2018 - Sep 2019  |  Kochi, Remote) Tj ET
-BT /F1 10.0 Tf 54.0 503.1 Td (- Developed a C++/Qt based code review tool for an engineering tools client.) Tj ET
-BT /F1 9.0 Tf 54.0 486.6 Td (C++, Qt) Tj ET
-BT /F2 10.0 Tf 54.0 466.5 Td (Research Developer - Trading System API \(Fintech Client\)) Tj ET
-BT /F1 9.0 Tf 54.0 451.0 Td (Sevendyne  |  Mar 2016 - Sep 2018  |  Kottayam, Hybrid) Tj ET
-BT /F1 10.0 Tf 54.0 433.8 Td (- Built a C++/Qt trading system API handling real-time market data streams for a fintech startup) Tj ET
-BT /F1 10.0 Tf 72.0 420.3 Td (client, delivered directly while co-founding Sevendyne.) Tj ET
-BT /F1 9.0 Tf 54.0 403.8 Td (C++, Qt, Real-Time Systems) Tj ET
-BT /F2 10.0 Tf 54.0 383.7 Td (Independent Systems Architect) Tj ET
-BT /F1 9.0 Tf 54.0 368.2 Td (Self-Employed  |  Jan 2012 - Sep 2016  |  Kottayam, Hybrid) Tj ET
-BT /F1 10.0 Tf 54.0 351.0 Td (- Engineered a property administration platform \(Wise Owl Property Management\) using C++ and Webtoolkit) Tj ET
-BT /F1 10.0 Tf 72.0 337.5 Td (\(Wt\) to service dense tenancy pipelines \(2015-2016\).) Tj ET
-BT /F1 10.0 Tf 54.0 321.0 Td (- Built Montal, a 2D game project using C++/Qt covering game state architecture and dynamic UI scaling) Tj ET
-BT /F1 10.0 Tf 72.0 307.5 Td (components \(2012-2014\).) Tj ET
-BT /F1 9.0 Tf 54.0 291.0 Td (C++, Qt, Wt) Tj ET
-BT /F2 10.0 Tf 54.0 270.9 Td (Software Engineer - Automotive HMI & IVI) Tj ET
-BT /F1 9.0 Tf 54.0 255.4 Td (HCLTech  |  Feb 2014 - Feb 2015  |  Delhi, On-site) Tj ET
-BT /F1 10.0 Tf 54.0 238.2 Td (- Developed C++/Qt based HMI and IVI \(In-Vehicle Infotainment\) systems for automotive platforms.) Tj ET
-BT /F1 9.0 Tf 54.0 221.7 Td (C++, Qt, HMI, IVI, Automotive) Tj ET
-BT /F2 10.0 Tf 54.0 201.6 Td (Software Engineer) Tj ET
-BT /F1 9.0 Tf 54.0 186.1 Td (HexoSys Group  |  Sep 2009 - Sep 2011  |  Kuala Lumpur, On-site) Tj ET
-BT /F1 10.0 Tf 54.0 168.9 Td (- Engineered C++ Qt and VC++ based USB protocol testing applications. Managed complex device protocol) Tj ET
-BT /F1 10.0 Tf 72.0 155.4 Td (debugging \(TCP/UDP\) for hardware systems.) Tj ET
-BT /F1 9.0 Tf 54.0 138.9 Td (C++, Qt, VC++, Sockets, Embedded Hardware) Tj ET
-BT /F2 10.0 Tf 54.0 118.8 Td (Trainee Software Engineer) Tj ET
-BT /F1 9.0 Tf 54.0 103.3 Td (Integral & UCI Tech  |  Apr 2007 - Apr 2009  |  Kochi, On-site) Tj ET
-BT /F1 10.0 Tf 54.0 86.1 Td (- Began professional software career writing VC++ systems automation tools, custom CAD geometric format) Tj ET
-BT /F1 10.0 Tf 72.0 72.6 Td (parsers, and low-level USB peripheral modeling applications \(Pathmodeler\).) Tj ET
+5 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> >>endobj
+6 0 obj<< /Length 2964 >>stream
+BT /F2 10.0 Tf 54.0 738.0 Td (Supply-chain optimisation API) Tj ET
+BT /F1 9.0 Tf 54.0 722.5 Td (Quantyf \(quantyf.com\)) Tj ET
+BT /F1 10.0 Tf 54.0 705.4 Td (- Python REST for scenarios, solver runs, results; algorithm code review.) Tj ET
+BT /F1 9.0 Tf 54.0 688.9 Td (Python, REST, optimisation services) Tj ET
+BT /F2 10.0 Tf 54.0 670.7 Td (TLMS cross-border logistics platform) Tj ET
+BT /F1 9.0 Tf 54.0 655.2 Td (Malaysia logistics & payments client · remote) Tj ET
+BT /F1 10.0 Tf 54.0 638.1 Td (- Laravel + queues, Vue.js ops UI, high-volume freight.) Tj ET
+BT /F1 9.0 Tf 54.0 621.6 Td (Laravel, Vue.js, MySQL, Redis) Tj ET
+BT /F2 10.0 Tf 54.0 603.4 Td (Multi-tenant payment CRMs) Tj ET
+BT /F1 9.0 Tf 54.0 587.9 Td (Malaysia logistics & payments client · remote) Tj ET
+BT /F1 10.0 Tf 54.0 570.8 Td (- CodeIgniter CRMs, payment adapters, Android + web QR checkout.) Tj ET
+BT /F1 9.0 Tf 54.0 554.3 Td (PHP, CodeIgniter, Android, MySQL) Tj ET
+BT /F2 10.0 Tf 54.0 536.1 Td (Ethereum property wallet) Tj ET
+BT /F1 9.0 Tf 54.0 520.6 Td (Malaysia logistics & payments client · remote) Tj ET
+BT /F1 10.0 Tf 54.0 503.5 Td (- React, Solidity, Truffle, Web3.js multi-network.) Tj ET
+BT /F1 9.0 Tf 54.0 487.0 Td (React, Solidity, Truffle, Web3.js) Tj ET
+BT /F2 10.0 Tf 54.0 468.8 Td (Payment gateway & Redmine wrapper \(Android\)) Tj ET
+BT /F1 9.0 Tf 54.0 453.3 Td (Payments programme, Malaysia) Tj ET
+BT /F1 10.0 Tf 54.0 436.2 Td (- Third-party payment gateway testing; Redmine-integrated Android client.) Tj ET
+BT /F1 9.0 Tf 54.0 419.7 Td (Android, Java, payment gateways) Tj ET
+BT /F2 10.0 Tf 54.0 401.5 Td (Road-violation traffic ticket app \(Android\)) Tj ET
+BT /F1 9.0 Tf 54.0 386.0 Td (Canada municipal enforcement) Tj ET
+BT /F1 10.0 Tf 54.0 368.9 Td (- Field ticket generation for road violations.) Tj ET
+BT /F1 9.0 Tf 54.0 352.4 Td (Android, Java) Tj ET
+BT /F2 10.0 Tf 54.0 334.2 Td (Mini-nation pocket game \(Android\)) Tj ET
+BT /F1 9.0 Tf 54.0 318.7 Td (Game studio client) Tj ET
+BT /F1 10.0 Tf 54.0 301.6 Td (- Marmalade SDK strategy game.) Tj ET
+BT /F1 9.0 Tf 54.0 285.1 Td (Android, Marmalade SDK, C++) Tj ET
+BT /F2 10.0 Tf 54.0 266.9 Td (Warehouse management app \(Android\)) Tj ET
+BT /F1 9.0 Tf 54.0 251.4 Td (Clothing retail, Kerala) Tj ET
+BT /F1 10.0 Tf 54.0 234.3 Td (- Stock intake, locations, store-floor WMS.) Tj ET
+BT /F1 9.0 Tf 54.0 217.8 Td (Android, Java) Tj ET
+BT /F2 10.0 Tf 54.0 199.6 Td (Android multimedia & messaging client) Tj ET
+BT /F1 9.0 Tf 54.0 184.1 Td (Reference \(GitHub: android-qt-vlc-chat\)) Tj ET
+BT /F1 10.0 Tf 54.0 167.0 Td (- NDK, QML, LibVLC, real-time sockets.) Tj ET
+BT /F1 9.0 Tf 54.0 150.5 Td (Android NDK, Qt/QML, LibVLC, C++) Tj ET
+BT /F2 10.0 Tf 54.0 132.3 Td (German navigation pod \(embedded C++\)) Tj ET
+BT /F1 9.0 Tf 54.0 116.8 Td (German product client · remote) Tj ET
+BT /F1 10.0 Tf 54.0 99.7 Td (- Embedded C++ on Linux; real-time navigation features.) Tj ET
+BT /F1 9.0 Tf 54.0 83.2 Td (C++, Embedded Linux) Tj ET
 endstream
 endobj
-7 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> >>endobj
-8 0 obj<< /Length 292 >>stream
-BT /F1 9.0 Tf 54.0 738.0 Td (VC++, CAD Parsers, Embedded Tools) Tj ET
-BT /F2 10.0 Tf 54.0 709.9 Td (EDUCATION) Tj ET
-BT /F2 10.0 Tf 54.0 690.4 Td (B.Tech in Computer Science & Engineering) Tj ET
-BT /F1 9.0 Tf 54.0 674.9 Td (TKM College of Engineering, Kerala University  |  2002 - 2006) Tj ET
+7 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> >>endobj
+8 0 obj<< /Length 2772 >>stream
+BT /F2 10.0 Tf 54.0 738.0 Td (UK automotive & industrial programmes) Tj ET
+BT /F1 9.0 Tf 54.0 722.5 Td (UK OEM clients · remote) Tj ET
+BT /F1 10.0 Tf 54.0 705.4 Td (- OEM delivery; PLC/SCADA bench coordination.) Tj ET
+BT /F1 9.0 Tf 54.0 688.9 Td (Industrial automation, PLC/SCADA) Tj ET
+BT /F2 10.0 Tf 54.0 670.7 Td (Low-latency trading desk \(C++/Qt\)) Tj ET
+BT /F1 9.0 Tf 54.0 655.2 Td (Fintech client · remote) Tj ET
+BT /F1 10.0 Tf 54.0 638.1 Td (- Qt/Wt desks; proprietary market-data adapters.) Tj ET
+BT /F1 9.0 Tf 54.0 621.6 Td (C++, Qt, Wt, Low-latency) Tj ET
+BT /F2 10.0 Tf 54.0 603.4 Td (C++/Qt code review platform) Tj ET
+BT /F1 9.0 Tf 54.0 587.9 Td (Engineering tools client) Tj ET
+BT /F1 10.0 Tf 54.0 570.8 Td (- Desktop review/diff for large C++ codebases.) Tj ET
+BT /F1 9.0 Tf 54.0 554.3 Td (C++, Qt) Tj ET
+BT /F2 10.0 Tf 54.0 536.1 Td (Wise Owl property administration) Tj ET
+BT /F1 9.0 Tf 54.0 520.6 Td (Wise Owl Property Management \(freelance\)) Tj ET
+BT /F1 10.0 Tf 54.0 503.5 Td (- C++/Wt tenants, brokers, listings.) Tj ET
+BT /F1 9.0 Tf 54.0 487.0 Td (C++, Wt) Tj ET
+BT /F2 10.0 Tf 54.0 468.8 Td (Automotive IVI & in-vehicle HMI) Tj ET
+BT /F1 9.0 Tf 54.0 453.3 Td (Client-confidential · European automotive programme) Tj ET
+BT /F1 10.0 Tf 54.0 436.2 Td (- Qt/QML IVI and operator HMI on Wayland Linux.) Tj ET
+BT /F1 9.0 Tf 54.0 419.7 Td (Qt, QML, Wayland Linux) Tj ET
+BT /F2 10.0 Tf 54.0 401.5 Td (Montal 2D game UI) Tj ET
+BT /F1 9.0 Tf 54.0 386.0 Td (Montal \(freelance\)) Tj ET
+BT /F1 10.0 Tf 54.0 368.9 Td (- Qt/QML screens and gameplay mechanics.) Tj ET
+BT /F1 9.0 Tf 54.0 352.4 Td (Qt, QML) Tj ET
+BT /F2 10.0 Tf 54.0 334.2 Td (Biometric fingerprint attendance) Tj ET
+BT /F1 9.0 Tf 54.0 318.7 Td (Quality Education Holdings, Saudi Arabia) Tj ET
+BT /F1 10.0 Tf 54.0 301.6 Td (- .NET/C# USB fingerprint attendance apps.) Tj ET
+BT /F1 9.0 Tf 54.0 285.1 Td (.NET, C#, Hardware SDKs) Tj ET
+BT /F2 10.0 Tf 54.0 266.9 Td (USB protocol tester) Tj ET
+BT /F1 9.0 Tf 54.0 251.4 Td (HexoSys Sdn Bhd, Kuala Lumpur) Tj ET
+BT /F1 10.0 Tf 54.0 234.3 Td (- Qt/VC++ console; TCP/UDP on embedded USB hardware.) Tj ET
+BT /F1 9.0 Tf 54.0 217.8 Td (Qt, VC++, TCP/UDP) Tj ET
+BT /F2 10.0 Tf 54.0 199.6 Td (Pathmodeler & CAD tooling) Tj ET
+BT /F1 9.0 Tf 54.0 184.1 Td (Integral / UCI Technologies, Kochi) Tj ET
+BT /F1 10.0 Tf 54.0 167.0 Td (- VC++ Pathmodeler, trading utilities, CAD parsers.) Tj ET
+BT /F1 9.0 Tf 54.0 150.5 Td (VC++, USB modelling, CAD) Tj ET
+BT /F2 10.0 Tf 54.0 132.3 Td (Automotive headlamp controller \(demo\)) Tj ET
+BT /F1 9.0 Tf 54.0 116.8 Td (Reference \(GitHub: qt-autolight-controller\)) Tj ET
+BT /F1 10.0 Tf 54.0 99.7 Td (- C++14 hysteresis/speed logic; Google Test; cppcheck.) Tj ET
+BT /F1 9.0 Tf 54.0 83.2 Td (C++14, Qt/QML, Google Test) Tj ET
 endstream
 endobj
-9 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>endobj
-10 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>endobj
+9 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 10 0 R /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> >>endobj
+10 0 obj<< /Length 484 >>stream
+BT /F2 10.0 Tf 54.0 738.0 Td (E-commerce platform \(CodeIgniter\)) Tj ET
+BT /F1 9.0 Tf 54.0 722.5 Td (E-commerce client \(fintech / retail\)) Tj ET
+BT /F1 10.0 Tf 54.0 705.4 Td (- Backend and front-end commerce integration.) Tj ET
+BT /F1 9.0 Tf 54.0 688.9 Td (PHP, CodeIgniter) Tj ET
+BT /F2 10.0 Tf 54.0 664.7 Td (EDUCATION) Tj ET
+BT /F2 10.0 Tf 54.0 645.2 Td (B.Tech in Information Technology) Tj ET
+BT /F1 9.0 Tf 54.0 629.7 Td (Mahatma Gandhi University, Kerala \(2001-2005\)) Tj ET
+endstream
+endobj
+11 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>endobj
+12 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>endobj
 xref
-0 11
+0 13
 0000000000 65535 f 
 0000000009 00000 n 
 0000000056 00000 n 
-0000000123 00000 n 
-0000000258 00000 n 
-0000004162 00000 n 
-0000004297 00000 n 
-0000008196 00000 n 
-0000008331 00000 n 
-0000008672 00000 n 
-0000008740 00000 n 
-trailer<< /Size 11 /Root 1 0 R >>
+0000000129 00000 n 
+0000000265 00000 n 
+0000003581 00000 n 
+0000003717 00000 n 
+0000006731 00000 n 
+0000006867 00000 n 
+0000009689 00000 n 
+0000009826 00000 n 
+0000010360 00000 n 
+0000010429 00000 n 
+trailer<< /Size 13 /Root 1 0 R >>
 startxref
-8814
+10503
 %%EOF

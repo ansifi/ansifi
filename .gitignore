@@ -1,1 +1,5 @@
 # Profile repo (ansifi/ansifi) — keep minimal; site lives in parent repo
+
+# Never commit credential/link dumps
+AnsifLinks.docx
+*.docx

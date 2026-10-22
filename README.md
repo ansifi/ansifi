@@ -10,10 +10,12 @@ Rails / Redmine, C++/Qt, full-stack web, Android · Co-founder at **[Sevendyne.c
 
 ## Projects
 
-Multi-tenant HR & ops platform · Redmine/Rails · German analytics client programmes · supply-chain API · APAC logistics & payments · Android (payments, field apps, WMS, games) · embedded Qt/automotive · open repos on [GitHub](https://github.com/ansifi)
+Multi-tenant HR & ops platform · Redmine/Rails · German analytics client programmes · supply-chain API · APAC logistics & payments · Android (payments, field apps, WMS, games) · embedded Qt/automotive · 
+
+[Portfolio]([https://ansifi.github.io])
 
 ---
 
 💼 [LinkedIn](https://www.linkedin.com/in/ansifpi/) · 💻 [GitHub](https://github.com/ansifi) · ✍️ [Medium](https://medium.com/@ansifpi)
 
-Portfolio: **[ansifi.github.io](https://ansifi.github.io/)** 
+

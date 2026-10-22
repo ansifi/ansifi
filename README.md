@@ -8,13 +8,7 @@ Rails / Redmine, C++/Qt, full-stack web, Android · Co-founder at **[Sevendyne.c
 
 ---
 
-## Focus
-
-Production **Redmine / Rails** work · **Android** · analytics and web platforms · embedded/Qt.
-
----
-
-## Selected work (full list on portfolio)
+## Projects
 
 Multi-tenant HR & ops platform · Redmine/Rails · German analytics client programmes · supply-chain API · APAC logistics & payments · Android (payments, field apps, WMS, games) · embedded Qt/automotive · open repos on [GitHub](https://github.com/ansifi)
 

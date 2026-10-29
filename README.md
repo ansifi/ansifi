@@ -1,21 +1,34 @@
 # Ansif P. Ibrahimkutty
 
-**Software developer** · ~20 years building production applications
+**Software developer** — C++ · Qt · QML · Python · Django · Ruby on Rails · Systems architecture
 
-Rails / Redmine, C++/Qt, full-stack web, Android · Co-founder at **[Sevendyne.com](https://www.sevendyne.com)**.
+Hands-on engineering across desktop, embedded, and multi-tenant platforms. Case studies focus on **pattern, architecture, and stack** — not employer timelines.
 
-**[Portfolio → ansifi.github.io](https://ansifi.github.io/)** · [Projects by skill](https://ansifi.github.io/projects/) ([web](https://ansifi.github.io/projects/?skill=web) · [Android](https://ansifi.github.io/projects/android/) · [Qt](https://ansifi.github.io/projects/?skill=qt)) · [Résumé](https://ansifi.github.io/resume.html) · [LinkedIn](https://www.linkedin.com/in/ansifpi/) · [GitHub](https://github.com/ansifi) · [Medium](https://medium.com/@ansifpi)
+**Portfolio → [ansifi.com](https://www.ansifi.com)** · [Projects by pillar](https://www.ansifi.com/projects/) ([C++](https://www.ansifi.com/projects/?skill=cpp) · [Qt](https://www.ansifi.com/projects/?skill=qt) · [QML](https://www.ansifi.com/projects/?skill=qml) · [Python](https://www.ansifi.com/projects/?skill=python) · [Django](https://www.ansifi.com/projects/?skill=django) · [Rails](https://www.ansifi.com/projects/?skill=rails) · [Architecture](https://www.ansifi.com/projects/?skill=architecture)) · [Résumé](https://www.ansifi.com/resume.html) · [LinkedIn](https://www.linkedin.com/in/ansifpi/) · [GitHub](https://github.com/ansifi)
 
 ---
 
-## Projects
+## Expertise pillars
 
-Multi-tenant HR & ops platform · Redmine/Rails · German analytics client programmes · supply-chain API · APAC logistics & payments · Android (payments, field apps, WMS, games) · embedded Qt/automotive · 
+| Pillar | Focus |
+| :--- | :--- |
+| **C++** | Native systems, embedded Linux, desktop tooling, performance paths |
+| **Qt / QML** | Desktop & embedded UIs, HMI/IVI, Qt Quick on Wayland and Android NDK |
+| **Python** | APIs, ETL, scrapers, operator-gated AI automation |
+| **Django** | Multi-tenant SaaS and service boundaries |
+| **Ruby on Rails** | Platforms, Redmine plugins, commerce integrations |
+| **Systems architecture** | Tenant isolation, queues, adapters, cross-service design |
 
-[Portfolio]([https://ansifi.github.io])
+---
+
+## Selected evidence
+
+Multi-tenant Django platforms · Redmine/Rails plugins · Python automation pipelines · low-latency C++/Qt desks · Qt/QML HMI · open demos on [GitHub](https://github.com/ansifi)
+
+Full list: **[ansifi.com/projects](https://www.ansifi.com/projects/)**
 
 ---
 
 💼 [LinkedIn](https://www.linkedin.com/in/ansifpi/) · 💻 [GitHub](https://github.com/ansifi) · ✍️ [Medium](https://medium.com/@ansifpi)
 
-
+Site source: [`ansifi/ansifi.github.io`](https://github.com/ansifi/ansifi.github.io). Profile README sync: `./scripts/sync-github-profile.sh`.
